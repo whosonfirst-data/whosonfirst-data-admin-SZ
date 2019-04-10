@@ -1,0 +1,66 @@
+{
+  "id": 890428019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.87672,-26.07427,31.87672,-26.07427",
+    "geom:latitude":-26.07427,
+    "geom:longitude":31.87672,
+    "gn:country":"SZ",
+    "gn:fcode":"PPL",
+    "gn:pop":4155,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Vuvulane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        421175627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910862,
+        "gp:id":1563431,
+        "qs:id":744670
+    },
+    "wof:country":"SZ",
+    "wof:created":1469051732,
+    "wof:geomhash":"a8e7da4cfd1f79ba794acc5f23f0de04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421175627,
+            "locality_id":890428019,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":890428019,
+    "wof:lastmodified":1505343503,
+    "wof:name":"Vuvulane",
+    "wof:parent_id":421175627,
+    "wof:placetype":"locality",
+    "wof:population":4155,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.87672,
+    -26.07427,
+    31.87672,
+    -26.07427
+],
+  "geometry": {"coordinates":[31.87672,-26.07427],"type":"Point"}
+}

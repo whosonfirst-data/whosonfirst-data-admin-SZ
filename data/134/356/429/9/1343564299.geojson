@@ -1,0 +1,67 @@
+{
+  "id": 1343564299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98841,-26.14126,31.98841,-26.14126",
+    "geom:latitude":-26.14126,
+    "geom:longitude":31.98841,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maphiveni",
+    "gn:country_code":"SZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9193136,
+    "gn:latitude":-26.14126,
+    "gn:longitude":31.98841,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Maphiveni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        421175623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9193136
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"d1b53bb95a42a5b6b61d6cb0d0873d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421175623,
+            "locality_id":1343564299,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":1343564299,
+    "wof:lastmodified":1537090685,
+    "wof:name":"Maphiveni",
+    "wof:parent_id":421175623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98841,
+    -26.14126,
+    31.98841,
+    -26.14126
+],
+  "geometry": {"coordinates":[31.98841,-26.14126],"type":"Point"}
+}

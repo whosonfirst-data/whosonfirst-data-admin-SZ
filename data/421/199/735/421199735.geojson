@@ -1,0 +1,88 @@
+{
+  "id": 421199735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.038436,-26.217748,31.038436,-26.217748",
+    "geom:latitude":-26.217748,
+    "geom:longitude":31.038436,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Motjane"
+    ],
+    "name:eng_x_preferred":[
+        "Motjane"
+    ],
+    "name:ita_x_preferred":[
+        "Inkhundla Motjane"
+    ],
+    "name:pol_x_preferred":[
+        "Motjane"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Motjane",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Hhohho",
+    "qs:photos":100,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":100,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":486753,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":55921323,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        421191941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55921323,
+        "qs:id":486753,
+        "wd:id":"Q3798845"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459009999,
+    "wof:geomhash":"3ae5dd09bc291b4a23dfffefc2b8f7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421191941,
+            "locality_id":421199735,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":421199735,
+    "wof:lastmodified":1514505924,
+    "wof:name":"Motjane",
+    "wof:parent_id":421191941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.038436,
+    -26.217748,
+    31.038436,
+    -26.217748
+],
+  "geometry": {"coordinates":[31.038436,-26.217748],"type":"Point"}
+}

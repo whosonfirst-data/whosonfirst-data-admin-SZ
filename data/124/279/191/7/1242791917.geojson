@@ -1,0 +1,67 @@
+{
+  "id": 1242791917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66667,-26.05,31.66667,-26.05",
+    "geom:latitude":-26.05,
+    "geom:longitude":31.66667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nkambeni",
+    "gn:country_code":"SZ",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11127817,
+    "gn:latitude":-26.05,
+    "gn:longitude":31.66667,
+    "gn:modification_date":"2016-05-03",
+    "gn:name":"Nkambeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        1108561209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11127817
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"327b5206975f8a1afa6fd05d81207e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561209,
+            "locality_id":1242791917,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":1242791917,
+    "wof:lastmodified":1536754898,
+    "wof:name":"Nkambeni",
+    "wof:parent_id":1108561209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66667,
+    -26.05,
+    31.66667,
+    -26.05
+],
+  "geometry": {"coordinates":[31.66667,-26.05],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327239011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52806,-26.3875,31.52806,-26.3875",
+    "geom:latitude":-26.3875,
+    "geom:longitude":31.52806,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ekukhanyeni",
+    "gn:country_code":"SZ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11127726,
+    "gn:latitude":-26.3875,
+    "gn:longitude":31.52806,
+    "gn:modification_date":"2016-05-01",
+    "gn:name":"Ekukhanyeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678219,
+        1108561265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11127726
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"b116225e3fc0df71c6709f43084448d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561265,
+            "locality_id":1327239011,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":1327239011,
+    "wof:lastmodified":1536959922,
+    "wof:name":"Ekukhanyeni",
+    "wof:parent_id":1108561265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52806,
+    -26.3875,
+    31.52806,
+    -26.3875
+],
+  "geometry": {"coordinates":[31.52806,-26.3875],"type":"Point"}
+}

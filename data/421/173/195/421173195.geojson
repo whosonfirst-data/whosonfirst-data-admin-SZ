@@ -1,0 +1,104 @@
+{
+  "id": 421173195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18333,-26.56667,31.18333,-26.56667",
+    "geom:latitude":-26.56667,
+    "geom:longitude":31.18333,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Malkerns"
+    ],
+    "name:eng_x_preferred":[
+        "Malkerns"
+    ],
+    "name:fre_x_preferred":[
+        "Malkerns"
+    ],
+    "name:ger_x_preferred":[
+        "Malkerns"
+    ],
+    "name:hrv_x_preferred":[
+        "Malkerns"
+    ],
+    "name:pol_x_preferred":[
+        "Malkerns"
+    ],
+    "name:por_x_preferred":[
+        "Malkerns"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u0435\u0440\u043d\u0441"
+    ],
+    "qs:gn_country":"SZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":935005,
+    "qs:gn_pop":9724,
+    "qs:name":"Malkerns",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Manzini",
+    "qs:photos":323,
+    "qs:photos_1k":65,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":323,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":493016,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":1563421,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678219,
+        1108561215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935005,
+        "gp:id":1563421,
+        "qs:id":493016,
+        "wd:id":"Q3699336"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459008974,
+    "wof:geomhash":"898c0633f797ee526da30b4a5ffb2c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561215,
+            "locality_id":421173195,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":421173195,
+    "wof:lastmodified":1514505920,
+    "wof:name":"Malkerns",
+    "wof:parent_id":1108561215,
+    "wof:placetype":"locality",
+    "wof:population":9724,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18333,
+    -26.56667,
+    31.18333,
+    -26.56667
+],
+  "geometry": {"coordinates":[31.18333,-26.56667],"type":"Point"}
+}

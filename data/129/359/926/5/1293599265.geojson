@@ -1,0 +1,68 @@
+{
+  "id": 1293599265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08333,-27.1,31.08333,-27.1",
+    "geom:latitude":-27.1,
+    "geom:longitude":31.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mahamba",
+    "gn:country_code":"SZ",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935017,
+    "gn:latitude":-27.1,
+    "gn:longitude":31.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mahamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678223,
+        1108561289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935017,
+        "wk:page":"Mahamba_%28Swaziland%29"
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"e0dd3f761e5a54937aa796a45ae302dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561289,
+            "locality_id":1293599265,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":1293599265,
+    "wof:lastmodified":1537573866,
+    "wof:name":"Mahamba",
+    "wof:parent_id":1108561289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08333,
+    -27.1,
+    31.08333,
+    -27.1
+],
+  "geometry": {"coordinates":[31.08333,-27.1],"type":"Point"}
+}

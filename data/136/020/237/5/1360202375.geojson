@@ -1,0 +1,67 @@
+{
+  "id": 1360202375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.50967,-25.92138,31.50967,-25.92138",
+    "geom:latitude":-25.92138,
+    "geom:longitude":31.50967,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Buhleni",
+    "gn:country_code":"SZ",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11523365,
+    "gn:latitude":-25.92138,
+    "gn:longitude":31.50967,
+    "gn:modification_date":"2017-04-10",
+    "gn:name":"Buhleni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        1108561207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11523365
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"7918fc359c8a9ba88ca36530001cf8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561207,
+            "locality_id":1360202375,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":1360202375,
+    "wof:lastmodified":1536777047,
+    "wof:name":"Buhleni",
+    "wof:parent_id":1108561207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.50967,
+    -25.92138,
+    31.50967,
+    -25.92138
+],
+  "geometry": {"coordinates":[31.50967,-25.92138],"type":"Point"}
+}

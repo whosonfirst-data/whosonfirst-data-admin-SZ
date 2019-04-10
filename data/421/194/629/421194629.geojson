@@ -1,0 +1,109 @@
+{
+  "id": 421194629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.903524,-26.20997,31.903524,-26.20997",
+    "geom:latitude":-26.20997,
+    "geom:longitude":31.903524,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u932b\u7a46\u6d85"
+    ],
+    "name:dut_x_preferred":[
+        "Simunye"
+    ],
+    "name:eng_x_preferred":[
+        "Simunye"
+    ],
+    "name:fra_x_preferred":[
+        "Simunye"
+    ],
+    "name:fre_x_preferred":[
+        "Simunye"
+    ],
+    "name:ger_x_preferred":[
+        "Simunye"
+    ],
+    "name:pol_x_preferred":[
+        "Simunye"
+    ],
+    "name:por_x_preferred":[
+        "Simunye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043c\u0443\u043d\u044c\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u7a46\u6d85"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Simunye",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Lubombo",
+    "qs:photos":104,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":104,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":888408,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":55921315,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-26.216667,
+    "wd:longitude":31.916667,
+    "wd:wordcount":230,
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        421186543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55921315,
+        "qs:id":888408,
+        "wd:id":"Q1102993"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459009814,
+    "wof:geomhash":"528f9ccdab61df4eb5188b5833d146ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421186543,
+            "locality_id":421194629,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":421194629,
+    "wof:lastmodified":1527716130,
+    "wof:name":"Simunye",
+    "wof:parent_id":421186543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.903524,
+    -26.20997,
+    31.903524,
+    -26.20997
+],
+  "geometry": {"coordinates":[31.903524,-26.20997],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343876673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26667,-27.16667,31.26667,-27.16667",
+    "geom:latitude":-27.16667,
+    "geom:longitude":31.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dwaleni",
+    "gn:country_code":"SZ",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935103,
+    "gn:latitude":-27.16667,
+    "gn:longitude":31.26667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Dwaleni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678223,
+        1108561289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935103
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"466bc73bc34b8f113059348618105923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561289,
+            "locality_id":1343876673,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":1343876673,
+    "wof:lastmodified":1536642446,
+    "wof:name":"Dwaleni",
+    "wof:parent_id":1108561289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26667,
+    -27.16667,
+    31.26667,
+    -27.16667
+],
+  "geometry": {"coordinates":[31.26667,-27.16667],"type":"Point"}
+}

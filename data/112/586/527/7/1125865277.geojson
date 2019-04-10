@@ -1,0 +1,109 @@
+{
+  "id": 1125865277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89198,-27.31005,31.89198,-27.31005",
+    "geom:latitude":-27.31005,
+    "geom:longitude":31.89198,
+    "gn:gn_country":"SZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2000,
+    "gn:population":2000,
+    "iso:country":"SZ",
+    "lbl:latitude":-27.31005,
+    "lbl:longitude":31.89198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0432\u0443\u043c\u0438\u0441\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u6b66\u7c73\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "Lavumisa"
+    ],
+    "name:eng_x_preferred":[
+        "Lavumisa"
+    ],
+    "name:fre_x_preferred":[
+        "Lavumisa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d6\u30df\u30b5"
+    ],
+    "name:pol_x_preferred":[
+        "Lavumisa"
+    ],
+    "name:por_x_preferred":[
+        "Lavumisa"
+    ],
+    "name:rum_x_preferred":[
+        "Lavumisa"
+    ],
+    "name:unk_x_variant":[
+        "Gollel"
+    ],
+    "qs_pg:aaroncc":"SZ",
+    "qs_pg:gn_country":"SZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":935051,
+    "qs_pg:gn_pop":2000,
+    "qs_pg:name":"Lavumisa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":130182,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678223,
+        421195839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935051,
+        "qs_pg:id":130182,
+        "wd:id":"Q3312840"
+    },
+    "wof:country":"SZ",
+    "wof:created":1497294008,
+    "wof:geomhash":"b603afee80b324ee8ab91a69782f47b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421195839,
+            "locality_id":1125865277,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":1125865277,
+    "wof:lastmodified":1514505918,
+    "wof:name":"Lavumisa",
+    "wof:parent_id":421195839,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89198,
+    -27.31005,
+    31.89198,
+    -27.31005
+],
+  "geometry": {"coordinates":[31.89198,-27.31005],"type":"Point"}
+}

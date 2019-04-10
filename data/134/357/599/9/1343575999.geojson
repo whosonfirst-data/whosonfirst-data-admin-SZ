@@ -1,0 +1,67 @@
+{
+  "id": 1343575999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83333,-26.7,31.83333,-26.7",
+    "geom:latitude":-26.7,
+    "geom:longitude":31.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Holobela",
+    "gn:country_code":"SZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935075,
+    "gn:latitude":-26.7,
+    "gn:longitude":31.83333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Holobela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        1108561291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935075
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"65cf5345cdeb81806ef7118ecf414a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561291,
+            "locality_id":1343575999,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":1343575999,
+    "wof:lastmodified":1537073893,
+    "wof:name":"Holobela",
+    "wof:parent_id":1108561291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83333,
+    -26.7,
+    31.83333,
+    -26.7
+],
+  "geometry": {"coordinates":[31.83333,-26.7],"type":"Point"}
+}

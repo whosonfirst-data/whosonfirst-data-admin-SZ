@@ -1,0 +1,103 @@
+{
+  "id": 421188249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48333,-26.88333,31.48333,-26.88333",
+    "geom:latitude":-26.88333,
+    "geom:longitude":31.48333,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0431\u0443\u0442\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Kubuta"
+    ],
+    "name:eng_x_preferred":[
+        "Kubuta"
+    ],
+    "name:ita_x_preferred":[
+        "Inkhundla Kubuta"
+    ],
+    "name:pol_x_preferred":[
+        "Kubuta"
+    ],
+    "name:por_x_preferred":[
+        "Kubuta"
+    ],
+    "name:ssw_x_preferred":[
+        "Inkhundla Kubuta"
+    ],
+    "qs:gn_country":"SZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":935055,
+    "qs:gn_pop":2038,
+    "qs:name":"Kubuta",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Shiselweni",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1091033,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":1563407,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678223,
+        1108561233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935055,
+        "gp:id":1563407,
+        "qs:id":1091033,
+        "wd:id":"Q3432356",
+        "wk:page":"Kubuta"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459009539,
+    "wof:geomhash":"57d469e7ea3773e6be2820e70d94907c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561233,
+            "locality_id":421188249,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":421188249,
+    "wof:lastmodified":1527716291,
+    "wof:name":"Kubuta",
+    "wof:parent_id":1108561233,
+    "wof:placetype":"locality",
+    "wof:population":2038,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48333,
+    -26.88333,
+    31.48333,
+    -26.88333
+],
+  "geometry": {"coordinates":[31.48333,-26.88333],"type":"Point"}
+}

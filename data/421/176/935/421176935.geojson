@@ -1,0 +1,106 @@
+{
+  "id": 421176935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01667,-26.45,31.01667,-26.45",
+    "geom:latitude":-26.45,
+    "geom:longitude":31.01667,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Mhlambanyatsi"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0445\u043b\u0430\u043c\u0431\u0430\u043d\u044f\u0446\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Mhlambanyatsi"
+    ],
+    "name:eng_x_preferred":[
+        "Mhlambanyatsi"
+    ],
+    "name:fre_x_preferred":[
+        "Mhlambanyatsi"
+    ],
+    "name:por_x_preferred":[
+        "Mhlambanyatsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0445\u043b\u0430\u043c\u0431\u0430\u043d\u044c\u044f\u0442\u0441\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Mhlambanyati"
+    ],
+    "qs:gn_country":"SZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934971,
+    "qs:gn_pop":2886,
+    "qs:name":"Mhlambanyatsi",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Manzini",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":18,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1091029,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":1563429,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678219,
+        1108561253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934971,
+        "gp:id":1563429,
+        "qs:id":1091029,
+        "wd:id":"Q3643138",
+        "wk:page":"Mhlambanyatsi"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459009124,
+    "wof:geomhash":"7a0a427fde6f5beae59b78bc91eb49bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561253,
+            "locality_id":421176935,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":421176935,
+    "wof:lastmodified":1527726473,
+    "wof:name":"Mhlambanyatsi",
+    "wof:parent_id":1108561253,
+    "wof:placetype":"locality",
+    "wof:population":2886,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01667,
+    -26.45,
+    31.01667,
+    -26.45
+],
+  "geometry": {"coordinates":[31.01667,-26.45],"type":"Point"}
+}

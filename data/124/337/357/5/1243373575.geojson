@@ -1,0 +1,72 @@
+{
+  "id": 1243373575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01667,-26.53333,32.01667,-26.53333",
+    "geom:latitude":-26.53333,
+    "geom:longitude":32.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Inyetane",
+    "gn:cc2":"SZ",
+    "gn:country_code":"SZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935068,
+    "gn:latitude":-26.53333,
+    "gn:longitude":32.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Inyetane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palata",
+        "Inyetane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        1108561247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935068
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"a2f9c7a71eac7c9b7f01aa01feb6c787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561247,
+            "locality_id":1243373575,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":1243373575,
+    "wof:lastmodified":1537702645,
+    "wof:name":"Inyetane",
+    "wof:parent_id":1108561247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01667,
+    -26.53333,
+    32.01667,
+    -26.53333
+],
+  "geometry": {"coordinates":[32.01667,-26.53333],"type":"Point"}
+}

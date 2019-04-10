@@ -1,0 +1,67 @@
+{
+  "id": 1309714145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38627,-26.42765,31.38627,-26.42765",
+    "geom:latitude":-26.42765,
+    "geom:longitude":31.38627,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mkhulamini",
+    "gn:country_code":"SZ",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205510,
+    "gn:latitude":-26.42765,
+    "gn:longitude":31.38627,
+    "gn:modification_date":"2016-08-01",
+    "gn:name":"Mkhulamini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678219,
+        1108561219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205510
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"f28cc94daa2ed98c14e81a6f4919d9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561219,
+            "locality_id":1309714145,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":1309714145,
+    "wof:lastmodified":1537060586,
+    "wof:name":"Mkhulamini",
+    "wof:parent_id":1108561219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38627,
+    -26.42765,
+    31.38627,
+    -26.42765
+],
+  "geometry": {"coordinates":[31.38627,-26.42765],"type":"Point"}
+}

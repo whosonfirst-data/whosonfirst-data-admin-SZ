@@ -1,0 +1,67 @@
+{
+  "id": 1242892131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,-26.78333,31.13333,-26.78333",
+    "geom:latitude":-26.78333,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Stylkloof",
+    "gn:country_code":"SZ",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934842,
+    "gn:latitude":-26.78333,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Stylkloof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678219,
+        1108561267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934842
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"6a22c3b07b6ab7110eb57a485f7c951a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561267,
+            "locality_id":1242892131,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":1242892131,
+    "wof:lastmodified":1536607830,
+    "wof:name":"Stylkloof",
+    "wof:parent_id":1108561267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    -26.78333,
+    31.13333,
+    -26.78333
+],
+  "geometry": {"coordinates":[31.13333,-26.78333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276989727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78,-26.412,31.78,-26.412",
+    "geom:latitude":-26.412,
+    "geom:longitude":31.78,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mpaka",
+    "gn:country_code":"SZ",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205291,
+    "gn:latitude":-26.412,
+    "gn:longitude":31.78,
+    "gn:modification_date":"2018-04-03",
+    "gn:name":"Mpaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        1108561283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205291,
+        "wk:page":"Mpaka"
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"01588a1d7d7b6b8e783ab331c173c495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561283,
+            "locality_id":1276989727,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":1276989727,
+    "wof:lastmodified":1537573866,
+    "wof:name":"Mpaka",
+    "wof:parent_id":1108561283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78,
+    -26.412,
+    31.78,
+    -26.412
+],
+  "geometry": {"coordinates":[31.78,-26.412],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242980597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5,-25.83333,31.5,-25.83333",
+    "geom:latitude":-25.83333,
+    "geom:longitude":31.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Herefords",
+    "gn:country_code":"SZ",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935086,
+    "gn:latitude":-25.83333,
+    "gn:longitude":31.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Herefords",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        1108561207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935086,
+        "wk:page":"Herefords"
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"9ed6ccdcca7eaebd0fe250f7ce9b581a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561207,
+            "locality_id":1242980597,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":1242980597,
+    "wof:lastmodified":1537573866,
+    "wof:name":"Herefords",
+    "wof:parent_id":1108561207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5,
+    -25.83333,
+    31.5,
+    -25.83333
+],
+  "geometry": {"coordinates":[31.5,-25.83333],"type":"Point"}
+}

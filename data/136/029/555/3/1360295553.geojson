@@ -1,0 +1,67 @@
+{
+  "id": 1360295553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93333,-27.11667,31.93333,-27.11667",
+    "geom:latitude":-27.11667,
+    "geom:longitude":31.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lismore",
+    "gn:country_code":"SZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935049,
+    "gn:latitude":-27.11667,
+    "gn:longitude":31.93333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Lismore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        421202643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935049
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"8a347118dc9a994ea74faf2012ecbec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202643,
+            "locality_id":1360295553,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":1360295553,
+    "wof:lastmodified":1536641045,
+    "wof:name":"Lismore",
+    "wof:parent_id":421202643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93333,
+    -27.11667000000001,
+    31.93333,
+    -27.11667000000001
+],
+  "geometry": {"coordinates":[31.93333,-27.11667000000001],"type":"Point"}
+}

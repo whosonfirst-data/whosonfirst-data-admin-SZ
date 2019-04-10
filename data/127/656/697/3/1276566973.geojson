@@ -1,0 +1,73 @@
+{
+  "id": 1276566973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58333,-26.41667,31.58333,-26.41667",
+    "geom:latitude":-26.41667,
+    "geom:longitude":31.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Macnab",
+    "gn:cc2":"SZ",
+    "gn:country_code":"SZ",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935023,
+    "gn:latitude":-26.41667,
+    "gn:longitude":31.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macnab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mac Nabs",
+        "Macnab Store",
+        "Macnab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678219,
+        1108561265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935023
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"00bc290e7d3c171e9400c04beda804ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561265,
+            "locality_id":1276566973,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":1276566973,
+    "wof:lastmodified":1537702645,
+    "wof:name":"Macnab",
+    "wof:parent_id":1108561265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58333,
+    -26.41667,
+    31.58333,
+    -26.41667
+],
+  "geometry": {"coordinates":[31.58333,-26.41667],"type":"Point"}
+}

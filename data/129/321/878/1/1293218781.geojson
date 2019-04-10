@@ -1,0 +1,67 @@
+{
+  "id": 1293218781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41667,-25.75,31.41667,-25.75",
+    "geom:latitude":-25.75,
+    "geom:longitude":31.41667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Horo",
+    "gn:country_code":"SZ",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935074,
+    "gn:latitude":-25.75,
+    "gn:longitude":31.41667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Horo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        1108561261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935074
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"da406d7ccdbd4344ed9264a3838524a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561261,
+            "locality_id":1293218781,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":1293218781,
+    "wof:lastmodified":1536677400,
+    "wof:name":"Horo",
+    "wof:parent_id":1108561261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41667,
+    -25.75,
+    31.41667,
+    -25.75
+],
+  "geometry": {"coordinates":[31.41667,-25.75],"type":"Point"}
+}

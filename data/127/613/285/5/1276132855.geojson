@@ -1,0 +1,67 @@
+{
+  "id": 1276132855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14403,-26.33858,31.14403,-26.33858",
+    "geom:latitude":-26.33858,
+    "geom:longitude":31.14403,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mangwaneni",
+    "gn:country_code":"SZ",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247706,
+    "gn:latitude":-26.33858,
+    "gn:longitude":31.14403,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Mangwaneni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        421202651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247706
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"e015ff0c9acddf66192ac754e1d5f1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202651,
+            "locality_id":1276132855,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":1276132855,
+    "wof:lastmodified":1537045304,
+    "wof:name":"Mangwaneni",
+    "wof:parent_id":421202651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14403,
+    -26.33858,
+    31.14403,
+    -26.33858
+],
+  "geometry": {"coordinates":[31.14403,-26.33858],"type":"Point"}
+}

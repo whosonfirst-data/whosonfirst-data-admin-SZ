@@ -1,0 +1,67 @@
+{
+  "id": 1276350421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,-25.95,31.51667,-25.95",
+    "geom:latitude":-25.95,
+    "geom:longitude":31.51667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bennets",
+    "gn:country_code":"SZ",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935116,
+    "gn:latitude":-25.95,
+    "gn:longitude":31.51667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Bennets",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        1108561237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935116
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"93c3cd95ab22d53001c028a2e79d4610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561237,
+            "locality_id":1276350421,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":1276350421,
+    "wof:lastmodified":1536755572,
+    "wof:name":"Bennets",
+    "wof:parent_id":1108561237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    -25.95,
+    31.51667,
+    -25.95
+],
+  "geometry": {"coordinates":[31.51667,-25.95],"type":"Point"}
+}

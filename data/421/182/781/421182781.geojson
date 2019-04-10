@@ -1,0 +1,100 @@
+{
+  "id": 421182781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42021,-26.6282,31.42021,-26.6282",
+    "geom:latitude":-26.6282,
+    "geom:longitude":31.42021,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0434\u0432\u043e\u043a\u043e\u0434\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Sidvokodvo"
+    ],
+    "name:eng_x_preferred":[
+        "Sidvokodvo"
+    ],
+    "name:ger_x_preferred":[
+        "Sidvokodvo"
+    ],
+    "name:por_x_preferred":[
+        "Sidvokodvo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0434\u0432\u043e\u043a\u043e\u0434\u0432\u043e"
+    ],
+    "qs:gn_country":"SZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934862,
+    "qs:gn_pop":1746,
+    "qs:name":"Sidvokodvo",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Manzini",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":945103,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":1563450,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678219,
+        1108561235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934862,
+        "gp:id":1563450,
+        "qs:id":945103,
+        "wd:id":"Q7509511",
+        "wk:page":"Sidvokodvo"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459009347,
+    "wof:geomhash":"4fdd7db9fa25f3612dae37175b07232b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561235,
+            "locality_id":421182781,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":421182781,
+    "wof:lastmodified":1527726464,
+    "wof:name":"Sidvokodvo",
+    "wof:parent_id":1108561235,
+    "wof:placetype":"locality",
+    "wof:population":1746,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42021,
+    -26.6282,
+    31.42021,
+    -26.6282
+],
+  "geometry": {"coordinates":[31.42021,-26.6282],"type":"Point"}
+}

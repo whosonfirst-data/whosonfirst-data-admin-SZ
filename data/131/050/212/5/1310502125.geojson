@@ -1,0 +1,67 @@
+{
+  "id": 1310502125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19324,-27.08748,31.19324,-27.08748",
+    "geom:latitude":-27.08748,
+    "geom:longitude":31.19324,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nsongweni",
+    "gn:country_code":"SZ",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257303,
+    "gn:latitude":-27.08748,
+    "gn:longitude":31.19324,
+    "gn:modification_date":"2016-09-21",
+    "gn:name":"Nsongweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678223,
+        1108561285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257303
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"889605ac18beb6f7e0a57dc3ffef07fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561285,
+            "locality_id":1310502125,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":1310502125,
+    "wof:lastmodified":1536922471,
+    "wof:name":"Nsongweni",
+    "wof:parent_id":1108561285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19324000000001,
+    -27.08748,
+    31.19324000000001,
+    -27.08748
+],
+  "geometry": {"coordinates":[31.19324000000001,-27.08748],"type":"Point"}
+}

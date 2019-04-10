@@ -1,0 +1,67 @@
+{
+  "id": 1326854319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19652,-27.09539,31.19652,-27.09539",
+    "geom:latitude":-27.09539,
+    "geom:longitude":31.19652,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mathendele",
+    "gn:country_code":"SZ",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11523346,
+    "gn:latitude":-27.09539,
+    "gn:longitude":31.19652,
+    "gn:modification_date":"2017-04-10",
+    "gn:name":"Mathendele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678223,
+        1108561285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11523346
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"8586729b714b04648e709ac33c73ceb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561285,
+            "locality_id":1326854319,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":1326854319,
+    "wof:lastmodified":1537016225,
+    "wof:name":"Mathendele",
+    "wof:parent_id":1108561285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19652,
+    -27.09539,
+    31.19652,
+    -27.09539
+],
+  "geometry": {"coordinates":[31.19652,-27.09539],"type":"Point"}
+}

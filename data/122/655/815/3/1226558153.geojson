@@ -1,0 +1,72 @@
+{
+  "id": 1226558153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6,-26.88333,31.6,-26.88333",
+    "geom:latitude":-26.88333,
+    "geom:longitude":31.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sitobela",
+    "gn:cc2":"SZ",
+    "gn:country_code":"SZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934850,
+    "gn:latitude":-26.88333,
+    "gn:longitude":31.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sitobela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sibobela",
+        "Sitobela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        1108561245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934850
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"796d30996dd6ea31306d5c220950975e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561245,
+            "locality_id":1226558153,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":1226558153,
+    "wof:lastmodified":1537702644,
+    "wof:name":"Sitobela",
+    "wof:parent_id":1108561245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6,
+    -26.88333,
+    31.6,
+    -26.88333
+],
+  "geometry": {"coordinates":[31.6,-26.88333],"type":"Point"}
+}

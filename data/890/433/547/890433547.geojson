@@ -1,0 +1,68 @@
+{
+  "id": 890433547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93333,-26.81667,31.93333,-26.81667",
+    "geom:latitude":-26.81667,
+    "geom:longitude":31.93333,
+    "gn:country":"SZ",
+    "gn:fcode":"PPL",
+    "gn:pop":10342,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Big Bend",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        1108561241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935113,
+        "gp:id":1563387,
+        "qs:id":130191,
+        "wk:page":"Big Bend"
+    },
+    "wof:country":"SZ",
+    "wof:created":1469051985,
+    "wof:geomhash":"2bdc36ce20554aff64123339afe91e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561241,
+            "locality_id":890433547,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":890433547,
+    "wof:lastmodified":1527792958,
+    "wof:name":"Big Bend",
+    "wof:parent_id":1108561241,
+    "wof:placetype":"locality",
+    "wof:population":10342,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93333,
+    -26.81667,
+    31.93333,
+    -26.81667
+],
+  "geometry": {"coordinates":[31.93333,-26.81667],"type":"Point"}
+}

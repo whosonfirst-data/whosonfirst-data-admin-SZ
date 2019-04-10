@@ -1,0 +1,73 @@
+{
+  "id": 1243381665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56667,-26.1,31.56667,-26.1",
+    "geom:latitude":-26.1,
+    "geom:longitude":31.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Balegane",
+    "gn:cc2":"SZ",
+    "gn:country_code":"SZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935118,
+    "gn:latitude":-26.1,
+    "gn:longitude":31.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Balegane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balegane Store",
+        "Balegana",
+        "Balegane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        1108561269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935118
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"e85615d6d607544f2c73a59af105470e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561269,
+            "locality_id":1243381665,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":1243381665,
+    "wof:lastmodified":1537702645,
+    "wof:name":"Balegane",
+    "wof:parent_id":1108561269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56667,
+    -26.1,
+    31.56667,
+    -26.1
+],
+  "geometry": {"coordinates":[31.56667,-26.1],"type":"Point"}
+}

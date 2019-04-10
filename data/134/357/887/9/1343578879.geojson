@@ -1,0 +1,67 @@
+{
+  "id": 1343578879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37564,-25.86711,31.37564,-25.86711",
+    "geom:latitude":-25.86711,
+    "geom:longitude":31.37564,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vusweni",
+    "gn:country_code":"SZ",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205222,
+    "gn:latitude":-25.86711,
+    "gn:longitude":31.37564,
+    "gn:modification_date":"2016-07-28",
+    "gn:name":"Vusweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        421183335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205222
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"1d4b6a6b4cd7b0a90e1befd85c5536bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421183335,
+            "locality_id":1343578879,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":1343578879,
+    "wof:lastmodified":1537069824,
+    "wof:name":"Vusweni",
+    "wof:parent_id":421183335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37564,
+    -25.86711,
+    31.37564,
+    -25.86711
+],
+  "geometry": {"coordinates":[31.37564,-25.86711],"type":"Point"}
+}

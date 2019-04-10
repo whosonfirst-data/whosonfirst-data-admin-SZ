@@ -1,0 +1,234 @@
+{
+  "id": 421203873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25,-25.96667,31.25,-25.96667",
+    "geom:latitude":-25.96667,
+    "geom:longitude":31.25,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u063a\u0632 \u0628\u064a\u0643"
+    ],
+    "name:chi_x_preferred":[
+        "\u76ae\u683c\u65af\u76ae\u514b"
+    ],
+    "name:deu_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:dut_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:eng_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:fra_x_preferred":[
+        "Pigg's Peak"
+    ],
+    "name:fre_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:ger_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:ita_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30c3\u30b0\u30ba\u30fb\u30d4\u30fc\u30af"
+    ],
+    "name:nld_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:pol_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:por_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:ron_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:rum_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0433\u0441-\u041f\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:swe_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0491\u0491\u0441 \u041f\u0456\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u683c\u65af\u76ae\u514b"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Swaziland",
+    "ne:ADM0_A3":"SWZ",
+    "ne:ADM1NAME":"Hhohho",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":934881,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Piggs Peak",
+    "ne:GN_POP":5750,
+    "ne:GTOPO30":1058.0,
+    "ne:ISO_A2":"SZ",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":-25.961004,
+    "ne:LONGITUDE":31.247001,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Piggs Peak",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Piggs Peak",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":5750,
+    "ne:POP_MIN":5750,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Swaziland",
+    "ne:SOV_A3":"SWZ",
+    "ne:TIMEZONE":"Africa/Mbabane",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"SZ",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":934881,
+    "qs:gn_pop":5750,
+    "qs:name":"Piggs Peak",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Hhohho",
+    "qs:photos":74,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":74,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":235460,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":1563445,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        421202649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934881,
+        "gp:id":1563445,
+        "qs:id":235460,
+        "wd:id":"Q1950487",
+        "wk:page":"Piggs Peak"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459010166,
+    "wof:geomhash":"33f4ae3db9c59d90ac592f07c48d097b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202649,
+            "locality_id":421203873,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":421203873,
+    "wof:lastmodified":1514505925,
+    "wof:name":"Piggs Peak",
+    "wof:parent_id":421202649,
+    "wof:placetype":"locality",
+    "wof:population":5750,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25,
+    -25.96667,
+    31.25,
+    -25.96667
+],
+  "geometry": {"coordinates":[31.25,-25.96667],"type":"Point"}
+}

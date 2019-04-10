@@ -1,0 +1,67 @@
+{
+  "id": 1326448829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.46667,-26.96667,31.46667,-26.96667",
+    "geom:latitude":-26.96667,
+    "geom:longitude":31.46667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mooihoek",
+    "gn:country_code":"SZ",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934953,
+    "gn:latitude":-26.96667,
+    "gn:longitude":31.46667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Mooihoek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678223,
+        1108561243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934953
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"8ec33793b1187986a8daf62f28adfd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561243,
+            "locality_id":1326448829,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":1326448829,
+    "wof:lastmodified":1536604197,
+    "wof:name":"Mooihoek",
+    "wof:parent_id":1108561243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.46667,
+    -26.96667,
+    31.46667,
+    -26.96667
+],
+  "geometry": {"coordinates":[31.46667,-26.96667],"type":"Point"}
+}

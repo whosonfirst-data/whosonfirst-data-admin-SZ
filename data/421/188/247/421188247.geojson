@@ -1,0 +1,105 @@
+{
+  "id": 421188247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33333,-26.48333,31.33333,-26.48333",
+    "geom:latitude":-26.48333,
+    "geom:longitude":31.33333,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Kwaluseni"
+    ],
+    "name:dut_x_preferred":[
+        "Kwaluseni"
+    ],
+    "name:eng_x_preferred":[
+        "Kwaluseni"
+    ],
+    "name:ger_x_preferred":[
+        "Kwaluseni"
+    ],
+    "name:ita_x_preferred":[
+        "Inkhundla Kwaluseni"
+    ],
+    "name:pol_x_preferred":[
+        "Kwaluseni"
+    ],
+    "name:por_x_preferred":[
+        "Kwaluseni"
+    ],
+    "name:spa_x_preferred":[
+        "Kwaluseni"
+    ],
+    "qs:gn_country":"SZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":935054,
+    "qs:gn_pop":3395,
+    "qs:name":"Kwaluseni",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Manzini",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1091032,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":1563408,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678219,
+        421173329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935054,
+        "gp:id":1563408,
+        "qs:id":1091032,
+        "wd:id":"Q3798822",
+        "wk:page":"Kwaluseni"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459009539,
+    "wof:geomhash":"5c33aca0e54711c164ec6391e992afc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421173329,
+            "locality_id":421188247,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":421188247,
+    "wof:lastmodified":1514505918,
+    "wof:name":"Kwaluseni",
+    "wof:parent_id":421173329,
+    "wof:placetype":"locality",
+    "wof:population":3395,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33333,
+    -26.48333,
+    31.33333,
+    -26.48333
+],
+  "geometry": {"coordinates":[31.33333,-26.48333],"type":"Point"}
+}

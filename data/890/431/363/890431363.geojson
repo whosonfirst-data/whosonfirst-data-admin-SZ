@@ -1,0 +1,78 @@
+{
+  "id": 890431363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71667,-25.98333,31.71667,-25.98333",
+    "geom:latitude":-25.98333,
+    "geom:longitude":31.71667,
+    "gn:country":"SZ",
+    "gn:fcode":"PPL",
+    "gn:pop":1899,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tshaneni"
+    ],
+    "name:eng_x_preferred":[
+        "Tshaneni"
+    ],
+    "name:unk_x_variant":[
+        "Tahaneni"
+    ],
+    "qs:name":"Tshaneni",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        421175627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934840,
+        "gp:id":1563426,
+        "qs:id":275870,
+        "wd:id":"Q7849602",
+        "wk:page":"Tshaneni"
+    },
+    "wof:country":"SZ",
+    "wof:created":1469051888,
+    "wof:geomhash":"090088ad36189b049971277766e5bd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421175627,
+            "locality_id":890431363,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":890431363,
+    "wof:lastmodified":1527735409,
+    "wof:name":"Tshaneni",
+    "wof:parent_id":421175627,
+    "wof:placetype":"locality",
+    "wof:population":1899,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71667,
+    -25.98333,
+    31.71667,
+    -25.98333
+],
+  "geometry": {"coordinates":[31.71667,-25.98333],"type":"Point"}
+}

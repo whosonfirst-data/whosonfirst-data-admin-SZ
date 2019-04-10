@@ -1,0 +1,67 @@
+{
+  "id": 1293302279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58878,-26.16037,31.58878,-26.16037",
+    "geom:latitude":-26.16037,
+    "geom:longitude":31.58878,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dvokolwako",
+    "gn:country_code":"SZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205450,
+    "gn:latitude":-26.16037,
+    "gn:longitude":31.58878,
+    "gn:modification_date":"2016-07-31",
+    "gn:name":"Dvokolwako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        1108561269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205450
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"a9384496502bd9e01c2a0fffc868597e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561269,
+            "locality_id":1293302279,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":1293302279,
+    "wof:lastmodified":1537051722,
+    "wof:name":"Dvokolwako",
+    "wof:parent_id":1108561269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58878,
+    -26.16037,
+    31.58878,
+    -26.16037
+],
+  "geometry": {"coordinates":[31.58878,-26.16037],"type":"Point"}
+}

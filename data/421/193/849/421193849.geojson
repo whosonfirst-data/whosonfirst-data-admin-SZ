@@ -1,0 +1,83 @@
+{
+  "id": 421193849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.748428,-26.6689935,31.748428,-26.6689935",
+    "geom:latitude":-26.668993,
+    "geom:longitude":31.748428,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Phuzumoya"
+    ],
+    "name:eng_x_preferred":[
+        "Phuzumoya"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Phuzumoya",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Lubombo",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":486752,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":55921322,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        421183019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55921322,
+        "qs:id":486752,
+        "wd:id":"Q15266168"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459009785,
+    "wof:geomhash":"5aa85934abe05b8305a73d29aaadd393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421183019,
+            "locality_id":421193849,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":421193849,
+    "wof:lastmodified":1527716148,
+    "wof:name":"Phuzumoya",
+    "wof:parent_id":421183019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.748428,
+    -26.6689935,
+    31.748428,
+    -26.6689935
+],
+  "geometry": {"coordinates":[31.748428,-26.6689935],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343762555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3252,-26.97479,31.3252,-26.97479",
+    "geom:latitude":-26.97479,
+    "geom:longitude":31.3252,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hlatsi",
+    "gn:country_code":"SZ",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257278,
+    "gn:latitude":-26.97479,
+    "gn:longitude":31.3252,
+    "gn:modification_date":"2016-09-20",
+    "gn:name":"Hlatsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mbabane",
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678223,
+        1108561243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257278
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"f7dad35d2275d523a340bee5bda246c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561243,
+            "locality_id":1343762555,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":1343762555,
+    "wof:lastmodified":1536807633,
+    "wof:name":"Hlatsi",
+    "wof:parent_id":1108561243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3252,
+    -26.97479,
+    31.3252,
+    -26.97479
+],
+  "geometry": {"coordinates":[31.3252,-26.97479],"type":"Point"}
+}

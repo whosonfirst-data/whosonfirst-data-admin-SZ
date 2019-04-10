@@ -1,0 +1,103 @@
+{
+  "id": 421203089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,-25.96667,31.13333,-25.96667",
+    "geom:latitude":-25.96667,
+    "geom:longitude":31.13333,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Bulembu"
+    ],
+    "name:dut_x_preferred":[
+        "Bulembu"
+    ],
+    "name:eng_x_preferred":[
+        "Bulembu"
+    ],
+    "name:ger_x_preferred":[
+        "Bulembu"
+    ],
+    "name:por_x_preferred":[
+        "Bulembu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0435\u043c\u0431\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Compound"
+    ],
+    "qs:gn_country":"SZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":935111,
+    "qs:gn_pop":2260,
+    "qs:name":"Bulembu",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Hhohho",
+    "qs:photos":175,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":175,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":229273,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":1563388,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":632,
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678211,
+        421202649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935111,
+        "gp:id":1563388,
+        "qs:id":229273,
+        "wd:id":"Q3643239",
+        "wk:page":"Bulembu"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459010140,
+    "wof:geomhash":"8cf2662e40364a57cbba35ac6af36892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202649,
+            "locality_id":421203089,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":421203089,
+    "wof:lastmodified":1527716197,
+    "wof:name":"Bulembu",
+    "wof:parent_id":421202649,
+    "wof:placetype":"locality",
+    "wof:population":2260,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    -25.96667,
+    31.13333,
+    -25.96667
+],
+  "geometry": {"coordinates":[31.13333,-25.96667],"type":"Point"}
+}

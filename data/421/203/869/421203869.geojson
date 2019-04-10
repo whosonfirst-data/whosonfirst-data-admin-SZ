@@ -1,0 +1,105 @@
+{
+  "id": 421203869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.95,-27.03333,31.95,-27.03333",
+    "geom:latitude":-27.03333,
+    "geom:longitude":31.95,
+    "iso:country":"SZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6069\u7d22\u79d1"
+    ],
+    "name:dut_x_preferred":[
+        "Nsoko"
+    ],
+    "name:eng_x_preferred":[
+        "Nsoko"
+    ],
+    "name:fre_x_preferred":[
+        "Nsoko"
+    ],
+    "name:por_x_preferred":[
+        "Nsoko"
+    ],
+    "name:unk_x_variant":[
+        "Nsoka"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u7d22\u79d1"
+    ],
+    "qs:gn_country":"SZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934900,
+    "qs:gn_pop":1175,
+    "qs:name":"Nsoko",
+    "qs:name_adm0":"Swaziland",
+    "qs:name_adm1":"Lubombo",
+    "qs:photos":43,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":235463,
+    "qs:woe_adm0":23424993,
+    "qs:woe_id":1563443,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-27.033333,
+    "wd:longitude":31.95,
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        421202643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934900,
+        "gp:id":1563443,
+        "qs:id":235463,
+        "wd:id":"Q7067578",
+        "wk:page":"Nsoko"
+    },
+    "wof:country":"SZ",
+    "wof:created":1459010166,
+    "wof:geomhash":"3b3a0acb417f3b8514a363f43a17005a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202643,
+            "locality_id":421203869,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":421203869,
+    "wof:lastmodified":1527716193,
+    "wof:name":"Nsoko",
+    "wof:parent_id":421202643,
+    "wof:placetype":"locality",
+    "wof:population":1175,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.95,
+    -27.03333,
+    31.95,
+    -27.03333
+],
+  "geometry": {"coordinates":[31.95,-27.03333],"type":"Point"}
+}
