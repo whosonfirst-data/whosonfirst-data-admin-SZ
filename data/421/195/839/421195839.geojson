@@ -10,6 +10,12 @@
     "geom:latitude":-27.228923,
     "geom:longitude":31.88687,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Lavumisa Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-27.236939,
     "lbl:longitude":31.888404,
     "meso:admin_1":"SHISELWENI",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421195839,
-    "wof:lastmodified":1536616121,
+    "wof:lastmodified":1553717535,
     "wof:name":"Lavumisa",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

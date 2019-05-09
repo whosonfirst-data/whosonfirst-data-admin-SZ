@@ -10,6 +10,12 @@
     "geom:latitude":-26.398408,
     "geom:longitude":31.314285,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Ludzeludze Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.403594,
     "lbl:longitude":31.314285,
     "meso:admin_1":"MANZINI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561213,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718114,
     "wof:name":"Ludzeludze",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

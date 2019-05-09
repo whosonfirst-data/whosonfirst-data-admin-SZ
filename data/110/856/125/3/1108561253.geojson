@@ -10,6 +10,12 @@
     "geom:latitude":-26.451926,
     "geom:longitude":30.982749,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Mhlambanyatsi Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.455555,
     "lbl:longitude":30.982659,
     "meso:admin_1":"MANZINI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561253,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718115,
     "wof:name":"Mhlambanyatsi",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

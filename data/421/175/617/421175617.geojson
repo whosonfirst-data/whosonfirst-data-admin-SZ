@@ -10,6 +10,12 @@
     "geom:latitude":-26.143082,
     "geom:longitude":31.150434,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Nkaba Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.142405,
     "lbl:longitude":31.12443,
     "meso:admin_1":"HHOHHO",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421175617,
-    "wof:lastmodified":1536615954,
+    "wof:lastmodified":1553717362,
     "wof:name":"Nkaba",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

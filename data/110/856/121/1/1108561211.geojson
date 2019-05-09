@@ -10,6 +10,12 @@
     "geom:latitude":-27.188978,
     "geom:longitude":31.331431,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Zombodze Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-27.188465,
     "lbl:longitude":31.329824,
     "meso:admin_1":"SHISELWENI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561211,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718114,
     "wof:name":"Zombodze",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

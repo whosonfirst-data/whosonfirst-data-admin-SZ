@@ -10,6 +10,12 @@
     "geom:latitude":-26.4467,
     "geom:longitude":31.55131,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Mafutseni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.450343,
     "lbl:longitude":31.551313,
     "meso:admin_1":"MANZINI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561265,
-    "wof:lastmodified":1536615170,
+    "wof:lastmodified":1553718116,
     "wof:name":"Mafutseni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

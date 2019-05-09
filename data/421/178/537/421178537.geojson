@@ -10,6 +10,12 @@
     "geom:latitude":-26.422422,
     "geom:longitude":31.185058,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Lobamba Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.417425,
     "lbl:longitude":31.183666,
     "meso:admin_1":"HHOHHO",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421178537,
-    "wof:lastmodified":1536615963,
+    "wof:lastmodified":1553717371,
     "wof:name":"Lobamba",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

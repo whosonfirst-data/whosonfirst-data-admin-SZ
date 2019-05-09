@@ -10,6 +10,12 @@
     "geom:latitude":-27.038082,
     "geom:longitude":31.552455,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Ngudzeni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-27.037986,
     "lbl:longitude":31.553736,
     "meso:admin_1":"SHISELWENI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561229,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718115,
     "wof:name":"Ngudzeni",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

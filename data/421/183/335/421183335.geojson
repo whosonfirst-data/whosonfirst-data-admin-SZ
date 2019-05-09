@@ -10,6 +10,12 @@
     "geom:latitude":-25.836947,
     "geom:longitude":31.341729,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Ntfonjeni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-25.834385,
     "lbl:longitude":31.3396,
     "meso:admin_1":"HHOHHO",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421183335,
-    "wof:lastmodified":1536616011,
+    "wof:lastmodified":1553717415,
     "wof:name":"Ntfonjeni",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

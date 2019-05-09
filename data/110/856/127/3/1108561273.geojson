@@ -10,6 +10,12 @@
     "geom:latitude":-26.632829,
     "geom:longitude":31.251954,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Ntondozi Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.625477,
     "lbl:longitude":31.263361,
     "meso:admin_1":"MANZINI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561273,
-    "wof:lastmodified":1536615170,
+    "wof:lastmodified":1553718116,
     "wof:name":"Ntondozi",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

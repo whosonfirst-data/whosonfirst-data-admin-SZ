@@ -10,6 +10,12 @@
     "geom:latitude":-26.198956,
     "geom:longitude":31.361564,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Maphalaleni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.193636,
     "lbl:longitude":31.358912,
     "meso:admin_1":"HHOHHO",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561223,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718114,
     "wof:name":"Maphalaleni",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.768968,
     "geom:longitude":31.245838,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Mahlangatja Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.768522,
     "lbl:longitude":31.265662,
     "meso:admin_1":"MANZINI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561267,
-    "wof:lastmodified":1536615170,
+    "wof:lastmodified":1553718116,
     "wof:name":"Mahlangatja",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

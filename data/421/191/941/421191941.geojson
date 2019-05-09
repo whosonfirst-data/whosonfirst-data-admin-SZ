@@ -10,6 +10,12 @@
     "geom:latitude":-26.305511,
     "geom:longitude":31.028263,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Motjane Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.295209,
     "lbl:longitude":31.016803,
     "meso:admin_1":"HHOHHO",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421191941,
-    "wof:lastmodified":1536616099,
+    "wof:lastmodified":1553717513,
     "wof:name":"Motjane",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

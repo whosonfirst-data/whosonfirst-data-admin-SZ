@@ -10,6 +10,12 @@
     "geom:latitude":-26.10211,
     "geom:longitude":31.824372,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Mhlume Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.079605,
     "lbl:longitude":31.827095,
     "meso:admin_1":"LUBOMBO",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421175627,
-    "wof:lastmodified":1536615954,
+    "wof:lastmodified":1553717363,
     "wof:name":"Mhlume",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.869589,
     "geom:longitude":31.659445,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Sithobela Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.86495,
     "lbl:longitude":31.642257,
     "meso:admin_1":"LUBOMBO",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561245,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718115,
     "wof:name":"Sithobela",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

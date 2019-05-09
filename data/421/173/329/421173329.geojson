@@ -10,6 +10,12 @@
     "geom:latitude":-26.506652,
     "geom:longitude":31.315611,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Kwaluseni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.507083,
     "lbl:longitude":31.312873,
     "meso:admin_1":"MANZINI",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421173329,
-    "wof:lastmodified":1536615945,
+    "wof:lastmodified":1553717349,
     "wof:name":"Kwaluseni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

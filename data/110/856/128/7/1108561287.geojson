@@ -10,6 +10,12 @@
     "geom:latitude":-26.924457,
     "geom:longitude":31.043418,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Gege Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.96565,
     "lbl:longitude":31.058966,
     "meso:admin_1":"SHISELWENI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561287,
-    "wof:lastmodified":1536615170,
+    "wof:lastmodified":1553718117,
     "wof:name":"Gege",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

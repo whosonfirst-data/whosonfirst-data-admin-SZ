@@ -10,6 +10,12 @@
     "geom:latitude":-25.944546,
     "geom:longitude":31.629238,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Mhlangatane Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-25.966315,
     "lbl:longitude":31.620712,
     "meso:admin_1":"HHOHHO",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561209,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718114,
     "wof:name":"Mhlangatane",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

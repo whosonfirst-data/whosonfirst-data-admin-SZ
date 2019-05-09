@@ -10,6 +10,12 @@
     "geom:latitude":-26.016009,
     "geom:longitude":31.4434,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Ndzingeni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.022361,
     "lbl:longitude":31.445617,
     "meso:admin_1":"HHOHHO",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561237,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718115,
     "wof:name":"Ndzingeni",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

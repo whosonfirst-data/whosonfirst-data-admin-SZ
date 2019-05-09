@@ -10,6 +10,12 @@
     "geom:latitude":-26.833245,
     "geom:longitude":31.906503,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Nkilongo Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.8303,
     "lbl:longitude":31.918215,
     "meso:admin_1":"LUBOMBO",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561241,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718115,
     "wof:name":"Nkilongo",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

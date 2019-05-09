@@ -10,6 +10,12 @@
     "geom:latitude":-26.283656,
     "geom:longitude":31.784334,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Hlane Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.310359,
     "lbl:longitude":31.79804,
     "meso:admin_1":"LUBOMBO",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421186543,
-    "wof:lastmodified":1536616036,
+    "wof:lastmodified":1553717450,
     "wof:name":"Hlane",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

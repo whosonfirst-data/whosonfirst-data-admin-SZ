@@ -10,6 +10,12 @@
     "geom:latitude":-26.683012,
     "geom:longitude":31.658319,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Siphofaneni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.670526,
     "lbl:longitude":31.673793,
     "meso:admin_1":"LUBOMBO",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421183019,
-    "wof:lastmodified":1536616006,
+    "wof:lastmodified":1553717400,
     "wof:name":"Siphofaneni",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

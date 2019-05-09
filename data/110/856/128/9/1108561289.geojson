@@ -10,6 +10,12 @@
     "geom:latitude":-27.13307,
     "geom:longitude":31.162673,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Maseyisini Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-27.118599,
     "lbl:longitude":31.132317,
     "meso:admin_1":"SHISELWENI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561289,
-    "wof:lastmodified":1536615170,
+    "wof:lastmodified":1553718117,
     "wof:name":"Maseyisini",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.389957,
     "geom:longitude":31.421101,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Kukhanyeni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.388566,
     "lbl:longitude":31.422511,
     "meso:admin_1":"MANZINI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561219,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718114,
     "wof:name":"Kukhanyeni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

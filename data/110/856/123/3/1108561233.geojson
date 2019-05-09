@@ -10,6 +10,12 @@
     "geom:latitude":-26.831385,
     "geom:longitude":31.454444,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Kubuta Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.834123,
     "lbl:longitude":31.452633,
     "meso:admin_1":"SHISELWENI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561233,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718115,
     "wof:name":"Kubuta",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

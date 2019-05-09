@@ -10,6 +10,12 @@
     "geom:latitude":-26.52928,
     "geom:longitude":31.216699,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Mahlanya Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.528768,
     "lbl:longitude":31.21526,
     "meso:admin_1":"MANZINI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561215,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718114,
     "wof:name":"Mahlanya",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

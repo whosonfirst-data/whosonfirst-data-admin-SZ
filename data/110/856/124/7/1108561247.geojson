@@ -10,6 +10,12 @@
     "geom:latitude":-26.637016,
     "geom:longitude":32.066892,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Tikhuba Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.63463,
     "lbl:longitude":32.074457,
     "meso:admin_1":"LUBOMBO",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561247,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718115,
     "wof:name":"Tikhuba",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

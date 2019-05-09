@@ -10,6 +10,12 @@
     "geom:latitude":-26.4995,
     "geom:longitude":31.385558,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Manzini Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.506646,
     "lbl:longitude":31.369857,
     "meso:admin_1":"MANZINI",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421175625,
-    "wof:lastmodified":1536615954,
+    "wof:lastmodified":1553717362,
     "wof:name":"Manzini",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

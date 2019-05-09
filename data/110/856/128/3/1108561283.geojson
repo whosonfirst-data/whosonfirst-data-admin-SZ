@@ -10,6 +10,12 @@
     "geom:latitude":-26.444115,
     "geom:longitude":31.774774,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Dvokodvweni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.449502,
     "lbl:longitude":31.771813,
     "meso:admin_1":"LUBOMBO",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561283,
-    "wof:lastmodified":1536615170,
+    "wof:lastmodified":1553718116,
     "wof:name":"Dvokodvweni",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.326313,
     "geom:longitude":31.127298,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Mbabane Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.32708,
     "lbl:longitude":31.131862,
     "meso:admin_1":"HHOHHO",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421202651,
-    "wof:lastmodified":1536616148,
+    "wof:lastmodified":1553717563,
     "wof:name":"Mbabane",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

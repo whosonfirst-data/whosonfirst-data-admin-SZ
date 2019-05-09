@@ -10,6 +10,12 @@
     "geom:latitude":-26.62675,
     "geom:longitude":31.400632,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Nhlambeni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.615676,
     "lbl:longitude":31.400645,
     "meso:admin_1":"MANZINI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561235,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718115,
     "wof:name":"Nhlambeni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

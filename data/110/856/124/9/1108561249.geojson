@@ -10,6 +10,12 @@
     "geom:latitude":-26.590012,
     "geom:longitude":30.881526,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Mangcongco Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.605359,
     "lbl:longitude":30.869372,
     "meso:admin_1":"MANZINI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561249,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718116,
     "wof:name":"Mangcongco",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

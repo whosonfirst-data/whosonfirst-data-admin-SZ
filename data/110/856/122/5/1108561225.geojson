@@ -10,6 +10,12 @@
     "geom:latitude":-26.274708,
     "geom:longitude":31.578636,
     "iso:country":"SZ",
+    "label:eng_x_preferred_longname":[
+        "Mkhiweni Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.2615,
     "lbl:longitude":31.595088,
     "meso:admin_1":"MANZINI",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108561225,
-    "wof:lastmodified":1536615169,
+    "wof:lastmodified":1553718115,
     "wof:name":"Mkhiweni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",
