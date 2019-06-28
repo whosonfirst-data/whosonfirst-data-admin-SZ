@@ -37,14 +37,14 @@
     "name:cat_x_preferred":[
         "Shiselweni"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u585e\u5362\u97e6\u5c3c"
-    ],
     "name:dan_x_preferred":[
         "Shiselweni District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shiselweni"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c3\u03b5\u03bb\u03bf\u03c5\u03ad\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Shiselweni"
@@ -54,18 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Shiselweni"
-    ],
-    "name:fre_x_preferred":[
-        "Shiselweni"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d8\u10e1\u10d4\u10da\u10d5\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Shiselweni"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03c3\u03b5\u03bb\u03bf\u03c5\u03ad\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac0\u0ab8\u0ac7\u0ab2\u0ab5\u0ac7\u0aa8\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -85,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0cb6\u0cbf\u0cb8\u0cc6\u0cb2\u0ccd\u0cb5\u0cc6\u0ca8\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10e1\u10d4\u10da\u10d5\u10d4\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc2dc\uc140\uc6e8\ub2c8 \uad6c"
     ],
@@ -97,8 +88,11 @@
     "name:mar_x_preferred":[
         "\u0936\u0940\u0938\u0932\u0928\u0947\u0923\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Shiselweni District"
+    ],
+    "name:nld_x_preferred":[
+        "Shiselweni"
     ],
     "name:nob_x_preferred":[
         "Shiselweni"
@@ -109,7 +103,7 @@
     "name:por_x_preferred":[
         "Shishelweni"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Shiselweni"
     ],
     "name:rus_x_preferred":[
@@ -150,6 +144,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Shiselweni"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u585e\u5362\u97e6\u5c3c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SWZ",
@@ -274,7 +271,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1553550488,
+    "wof:lastmodified":1561749157,
     "wof:name":"Shiselweni",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

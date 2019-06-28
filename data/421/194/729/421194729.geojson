@@ -25,13 +25,7 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0442\u0435\u043a\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u6cf0\u57fa"
-    ],
     "name:deu_x_preferred":[
-        "Siteki"
-    ],
-    "name:dut_x_preferred":[
         "Siteki"
     ],
     "name:eng_x_preferred":[
@@ -40,13 +34,7 @@
     "name:fra_x_preferred":[
         "Siteki"
     ],
-    "name:fre_x_preferred":[
-        "Siteki"
-    ],
     "name:frr_x_preferred":[
-        "Siteki"
-    ],
-    "name:ger_x_preferred":[
         "Siteki"
     ],
     "name:hrv_x_preferred":[
@@ -74,9 +62,6 @@
         "Siteki"
     ],
     "name:ron_x_preferred":[
-        "Siteki"
-    ],
-    "name:rum_x_preferred":[
         "Siteki"
     ],
     "name:rus_x_preferred":[
@@ -160,7 +145,7 @@
         }
     ],
     "wof:id":421194729,
-    "wof:lastmodified":1534379463,
+    "wof:lastmodified":1561749159,
     "wof:name":"Siteki",
     "wof:parent_id":1108561281,
     "wof:placetype":"locality",

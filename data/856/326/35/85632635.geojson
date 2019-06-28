@@ -145,9 +145,6 @@
     "name:cym_x_variant":[
         "Swaziland"
     ],
-    "name:cze_x_preferred":[
-        "Svazijsko"
-    ],
     "name:cze_x_variant":[
         "Swazijsko"
     ],
@@ -755,8 +752,7 @@
     ],
     "name:zho_x_variant":[
         "\u53f2\u74e6\u6fdf\u862d",
-        "\u65af\u5a01\u58eb\u862d",
-        "\u65af\u5a01\u58eb\u5170"
+        "\u65af\u5a01\u58eb\u862d"
     ],
     "name:zho_yue_x_preferred":[
         "\u65af\u5a01\u58eb\u862d"
@@ -913,7 +909,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1537303876,
+    "wof:lastmodified":1561749157,
     "wof:name":"eSwatini",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

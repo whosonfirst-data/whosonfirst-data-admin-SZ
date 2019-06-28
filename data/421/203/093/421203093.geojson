@@ -26,16 +26,10 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u099e\u09cd\u099c\u09bf\u09a8\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u66fc\u9f50\u5c3c"
-    ],
     "name:dan_x_preferred":[
         "Manzini"
     ],
     "name:deu_x_preferred":[
-        "Manzini"
-    ],
-    "name:dut_x_preferred":[
         "Manzini"
     ],
     "name:ell_x_preferred":[
@@ -56,20 +50,8 @@
     "name:fra_x_preferred":[
         "Manzini"
     ],
-    "name:fre_x_preferred":[
-        "Manzini"
-    ],
     "name:frr_x_preferred":[
         "Manzini"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10d6\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Manzini"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03b6\u03af\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac5\u0aa8\u0acd\u0a9c\u0abf\u0aa8\u0ac0"
@@ -113,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0902\u091d\u093f\u0928\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Manzini"
     ],
     "name:nds_x_preferred":[
@@ -135,9 +117,6 @@
         "Manzini"
     ],
     "name:ron_x_preferred":[
-        "Manzini"
-    ],
-    "name:rum_x_preferred":[
         "Manzini"
     ],
     "name:rus_x_preferred":[
@@ -330,7 +309,7 @@
         }
     ],
     "wof:id":421203093,
-    "wof:lastmodified":1527716201,
+    "wof:lastmodified":1561749159,
     "wof:name":"Manzini",
     "wof:parent_id":1108561219,
     "wof:placetype":"locality",
