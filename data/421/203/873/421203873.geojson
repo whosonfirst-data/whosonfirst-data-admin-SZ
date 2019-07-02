@@ -17,13 +17,7 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u063a\u0632 \u0628\u064a\u0643"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u683c\u65af\u76ae\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Piggs Peak"
-    ],
-    "name:dut_x_preferred":[
         "Piggs Peak"
     ],
     "name:eng_x_preferred":[
@@ -32,10 +26,7 @@
     "name:fra_x_preferred":[
         "Pigg's Peak"
     ],
-    "name:fre_x_preferred":[
-        "Piggs Peak"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Piggs Peak"
     ],
     "name:ita_x_preferred":[
@@ -54,9 +45,6 @@
         "Piggs Peak"
     ],
     "name:ron_x_preferred":[
-        "Piggs Peak"
-    ],
-    "name:rum_x_preferred":[
         "Piggs Peak"
     ],
     "name:rus_x_preferred":[
@@ -213,7 +201,7 @@
         }
     ],
     "wof:id":421203873,
-    "wof:lastmodified":1514505925,
+    "wof:lastmodified":1561749159,
     "wof:name":"Piggs Peak",
     "wof:parent_id":421202649,
     "wof:placetype":"locality",

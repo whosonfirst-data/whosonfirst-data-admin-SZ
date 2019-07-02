@@ -16,17 +16,14 @@
     "name:deu_x_preferred":[
         "Kwaluseni"
     ],
-    "name:dut_x_preferred":[
-        "Kwaluseni"
-    ],
     "name:eng_x_preferred":[
-        "Kwaluseni"
-    ],
-    "name:ger_x_preferred":[
         "Kwaluseni"
     ],
     "name:ita_x_preferred":[
         "Inkhundla Kwaluseni"
+    ],
+    "name:nld_x_preferred":[
+        "Kwaluseni"
     ],
     "name:pol_x_preferred":[
         "Kwaluseni"
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421188247,
-    "wof:lastmodified":1514505918,
+    "wof:lastmodified":1561749159,
     "wof:name":"Kwaluseni",
     "wof:parent_id":421173329,
     "wof:placetype":"locality",

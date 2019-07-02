@@ -34,17 +34,17 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0445\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u970d"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hhohho"
     ],
     "name:dan_x_preferred":[
         "Hhohho District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hhohho"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bd\u03cc\u03c7\u03bf"
     ],
     "name:eng_x_preferred":[
         "Hhohho"
@@ -57,18 +57,6 @@
     ],
     "name:fra_x_preferred":[
         "Hhohho"
-    ],
-    "name:fre_x_preferred":[
-        "Hhohho"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10dd\u10f0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Hhohho"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bd\u03cc\u03c7\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ab9\u0ab9\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -88,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0ccd\u0cb9\u0ccb \u0cb9\u0ccd\u0cb9\u0ccb \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10f0\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ud638\ud638 \uad6c"
     ],
@@ -100,8 +91,11 @@
     "name:mar_x_preferred":[
         "\u0939\u094b\u0939\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hhohho District"
+    ],
+    "name:nld_x_preferred":[
+        "Hhohho"
     ],
     "name:nob_x_preferred":[
         "Hhohho"
@@ -112,7 +106,7 @@
     "name:por_x_preferred":[
         "Hhohho"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Hhohho"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +153,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Hhohho"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u970d"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SWZ",
@@ -283,7 +280,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1553550487,
+    "wof:lastmodified":1561749157,
     "wof:name":"Hhohho",
     "wof:parent_id":85632635,
     "wof:placetype":"region",
