@@ -16,6 +16,12 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0431\u0443\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kubuta"
+    ],
+    "name:deu_x_preferred":[
+        "Kubuta"
+    ],
     "name:eng_x_preferred":[
         "Kubuta"
     ],
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421188249,
-    "wof:lastmodified":1561749159,
+    "wof:lastmodified":1563571373,
     "wof:name":"Kubuta",
     "wof:parent_id":1108561233,
     "wof:placetype":"locality",

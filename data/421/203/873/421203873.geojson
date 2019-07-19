@@ -14,8 +14,14 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Piggs Peak"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u064a\u063a\u0632 \u0628\u064a\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "Piggs Peak"
     ],
     "name:deu_x_preferred":[
         "Piggs Peak"
@@ -27,6 +33,9 @@
         "Pigg's Peak"
     ],
     "name:fra_x_variant":[
+        "Piggs Peak"
+    ],
+    "name:frr_x_preferred":[
         "Piggs Peak"
     ],
     "name:ita_x_preferred":[
@@ -201,7 +210,7 @@
         }
     ],
     "wof:id":421203873,
-    "wof:lastmodified":1561749159,
+    "wof:lastmodified":1563571365,
     "wof:name":"Piggs Peak",
     "wof:parent_id":421202649,
     "wof:placetype":"locality",

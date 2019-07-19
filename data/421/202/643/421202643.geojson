@@ -30,14 +30,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Lubuli"
+    ],
     "name:eng_x_preferred":[
         "Lubuli"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Lubuli"
     ],
     "name:ita_x_preferred":[
         "Inkhundla Lubuli"
+    ],
+    "name:nld_x_preferred":[
+        "Lubuli"
     ],
     "name:pol_x_preferred":[
         "Lubuli"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421202643,
-    "wof:lastmodified":1553717563,
+    "wof:lastmodified":1563571369,
     "wof:name":"Lubuli",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

@@ -15,6 +15,9 @@
     "iso:country":"SZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tshaneni"
+    ],
     "name:eng_x_preferred":[
         "Tshaneni"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890431363,
-    "wof:lastmodified":1561749160,
+    "wof:lastmodified":1563571380,
     "wof:name":"Tshaneni",
     "wof:parent_id":421175627,
     "wof:placetype":"locality",

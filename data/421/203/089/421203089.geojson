@@ -16,6 +16,9 @@
     "name:afr_x_preferred":[
         "Bulembu"
     ],
+    "name:ceb_x_preferred":[
+        "Bulembu"
+    ],
     "name:deu_x_preferred":[
         "Bulembu"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421203089,
-    "wof:lastmodified":1561749159,
+    "wof:lastmodified":1563571368,
     "wof:name":"Bulembu",
     "wof:parent_id":421202649,
     "wof:placetype":"locality",

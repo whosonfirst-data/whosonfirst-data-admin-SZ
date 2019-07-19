@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0445\u043b\u0443\u043c\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Mhlume"
+    ],
     "name:deu_x_preferred":[
         "Mhlume"
     ],
@@ -23,6 +26,9 @@
         "Mhlume"
     ],
     "name:fra_x_preferred":[
+        "Mhlume"
+    ],
+    "name:frr_x_preferred":[
         "Mhlume"
     ],
     "name:hrv_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421178559,
-    "wof:lastmodified":1561749159,
+    "wof:lastmodified":1563571378,
     "wof:name":"Mhlume",
     "wof:parent_id":421175627,
     "wof:placetype":"locality",

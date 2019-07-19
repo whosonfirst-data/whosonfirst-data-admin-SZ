@@ -26,6 +26,12 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u099e\u09cd\u099c\u09bf\u09a8\u09bf"
     ],
+    "name:cat_x_preferred":[
+        "Manzini"
+    ],
+    "name:ceb_x_preferred":[
+        "Manzini"
+    ],
     "name:dan_x_preferred":[
         "Manzini"
     ],
@@ -92,6 +98,9 @@
     "name:lit_x_preferred":[
         "Manzinis"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d3e\u0d7b\u0d38\u0d3f\u0d28\u0d3f"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0902\u091d\u093f\u0928\u0940"
     ],
@@ -157,6 +166,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u0632\u06cc\u0646\u06cc\u060c \u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0646\u0632\u06cc\u0646\u06cc"
     ],
     "name:vie_x_preferred":[
         "Manzini"
@@ -309,7 +321,7 @@
         }
     ],
     "wof:id":421203093,
-    "wof:lastmodified":1561749159,
+    "wof:lastmodified":1563571369,
     "wof:name":"Manzini",
     "wof:parent_id":1108561219,
     "wof:placetype":"locality",

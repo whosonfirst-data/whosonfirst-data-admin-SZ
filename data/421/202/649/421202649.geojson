@@ -30,11 +30,62 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u063a\u0632 \u0628\u064a\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:deu_x_preferred":[
+        "Piggs Peak"
+    ],
     "name:eng_x_preferred":[
         "Pigg's Peak"
     ],
     "name:eng_x_variant":[
-        "Pigg's Peak"
+        "Piggs Peak"
+    ],
+    "name:fra_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:frr_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:ita_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30c3\u30b0\u30ba\u30fb\u30d4\u30fc\u30af"
+    ],
+    "name:nld_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:pol_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:por_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:ron_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0433\u0441-\u041f\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:swe_x_preferred":[
+        "Piggs Peak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0491\u0491\u0441 \u041f\u0456\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u683c\u65af\u76ae\u514b"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -96,7 +147,7 @@
         }
     ],
     "wof:id":421202649,
-    "wof:lastmodified":1553717563,
+    "wof:lastmodified":1563571371,
     "wof:name":"Pigg's Peak",
     "wof:parent_id":85678211,
     "wof:placetype":"county",
