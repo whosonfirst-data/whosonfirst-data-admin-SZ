@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Simunye"
     ],
+    "name:frr_x_preferred":[
+        "Simunye"
+    ],
     "name:nld_x_preferred":[
         "Simunye"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421194629,
-    "wof:lastmodified":1561749159,
+    "wof:lastmodified":1563571364,
     "wof:name":"Simunye",
     "wof:parent_id":421186543,
     "wof:placetype":"locality",

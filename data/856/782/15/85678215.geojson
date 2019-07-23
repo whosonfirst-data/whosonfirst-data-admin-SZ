@@ -34,6 +34,12 @@
     "name:bul_x_preferred":[
         "\u041b\u0443\u0431\u043e\u043c\u0431\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Lubombo"
+    ],
+    "name:ceb_x_preferred":[
+        "Lubombo District"
+    ],
     "name:dan_x_preferred":[
         "Lubombo District"
     ],
@@ -46,14 +52,23 @@
     "name:eng_x_preferred":[
         "Lubombo"
     ],
+    "name:eng_x_variant":[
+        "Lubombo District"
+    ],
     "name:fin_x_preferred":[
         "Lubombo"
     ],
     "name:fra_x_preferred":[
         "Lubombo"
     ],
+    "name:frr_x_preferred":[
+        "Lubombo"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0aae\u0acb\u0aae\u0acd\u0aac\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05dc\u05d5\u05d1\u05d5\u05de\u05d1\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0941\u092c\u094b\u092e\u094d\u092c\u094b \u091c\u093f\u0932\u093e"
@@ -141,6 +156,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Lubombo"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10e3\u10d1\u10dd\u10db\u10d1\u10dd"
     ],
     "name:zho_x_preferred":[
         "\u5362\u90a6\u535a"
@@ -268,7 +286,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1561749157,
+    "wof:lastmodified":1563571350,
     "wof:name":"Lubombo",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

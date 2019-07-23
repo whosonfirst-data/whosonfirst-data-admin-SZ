@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Motjane"
+    ],
     "name:eng_x_preferred":[
         "Motjane"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421199735,
-    "wof:lastmodified":1561749159,
+    "wof:lastmodified":1563571376,
     "wof:name":"Motjane",
     "wof:parent_id":421191941,
     "wof:placetype":"locality",

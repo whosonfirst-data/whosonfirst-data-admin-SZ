@@ -22,7 +22,13 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0432\u0443\u043c\u0438\u0441\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Lavumisa"
+    ],
     "name:eng_x_preferred":[
+        "Lavumisa"
+    ],
+    "name:fin_x_preferred":[
         "Lavumisa"
     ],
     "name:fra_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125865277,
-    "wof:lastmodified":1561749160,
+    "wof:lastmodified":1563571381,
     "wof:name":"Lavumisa",
     "wof:parent_id":421195839,
     "wof:placetype":"locality",

@@ -26,7 +26,22 @@
     "name:ara_x_preferred":[
         "\u0645\u0628\u0627\u0628\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Mbabane"
+    ],
     "name:aze_x_preferred":[
+        "Mbabane"
+    ],
+    "name:aze_x_variant":[
+        "Esvatini"
+    ],
+    "name:bak_x_preferred":[
+        "\u041c\u0431\u0430\u0431\u0430\u043d\u0435"
+    ],
+    "name:bam_x_preferred":[
+        "Mbabane"
+    ],
+    "name:bcl_x_preferred":[
         "Mbabane"
     ],
     "name:bel_x_preferred":[
@@ -37,6 +52,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09ac\u09ac\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u0985\u09ae\u09cd\u09ac\u09be\u09ac\u09be\u09a8\u09c7"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f0b\u0f54\u0f0b\u0f54\u0f53\u0f0d"
@@ -51,6 +69,12 @@
         "\u041c\u0431\u0430\u0431\u0430\u043d\u0435"
     ],
     "name:cat_x_preferred":[
+        "Mbabane"
+    ],
+    "name:cdo_x_preferred":[
+        "Mbabane"
+    ],
+    "name:ceb_x_preferred":[
         "Mbabane"
     ],
     "name:ces_x_preferred":[
@@ -95,6 +119,9 @@
     "name:fra_x_preferred":[
         "Mbabane"
     ],
+    "name:frr_x_preferred":[
+        "Mbabane"
+    ],
     "name:gla_x_preferred":[
         "Mbabane"
     ],
@@ -107,8 +134,14 @@
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0acd\u0aac\u0abe\u0aac\u0aa8\u0ac7"
     ],
+    "name:hak_x_preferred":[
+        "Mbabane"
+    ],
     "name:hat_x_preferred":[
         "Mbab\u00e0n"
+    ],
+    "name:hau_x_preferred":[
+        "Mbabane"
     ],
     "name:hbs_x_preferred":[
         "Mbabane"
@@ -176,6 +209,9 @@
     "name:lav_x_preferred":[
         "Mbabane"
     ],
+    "name:lij_x_preferred":[
+        "Mbabane"
+    ],
     "name:lit_x_preferred":[
         "Mbaban\u0117"
     ],
@@ -184,6 +220,9 @@
     ],
     "name:ltz_x_preferred":[
         "Mbabane"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d0e\u0d02\u0d2c\u0d2c\u0d3e\u0d28\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0902\u092c\u093e\u092c\u093e\u0928\u0947"
@@ -239,6 +278,9 @@
     "name:por_x_preferred":[
         "Mbabane"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u0628\u0627\u0628\u0627\u0646\u0647"
+    ],
     "name:ron_x_preferred":[
         "Mbabane"
     ],
@@ -269,16 +311,25 @@
     "name:spa_x_preferred":[
         "Mbabane"
     ],
+    "name:sqi_x_preferred":[
+        "Mbabane"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0431\u0430\u0431\u0430\u043d\u0435"
     ],
     "name:ssw_x_preferred":[
         "Embabane"
     ],
+    "name:ssw_x_variant":[
+        "\u00c9Mb\u00e1b\u00e1ne"
+    ],
     "name:swa_x_preferred":[
         "Mbabane"
     ],
     "name:swe_x_preferred":[
+        "Mbabane"
+    ],
+    "name:szl_x_preferred":[
         "Mbabane"
     ],
     "name:tam_x_preferred":[
@@ -296,6 +347,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e21\u0e1a\u0e32\u0e1a\u0e32\u0e40\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e36\u0e21\u0e1a\u0e32\u0e1a\u0e32\u0e19\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Mbabane"
     ],
@@ -307,6 +361,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0645\u0628\u0627\u0628\u0627\u0646\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0628\u0627\u0628\u0646\u06d2"
     ],
     "name:uzb_x_preferred":[
         "Mbabane"
@@ -322,6 +379,12 @@
     ],
     "name:war_x_preferred":[
         "Mbabane"
+    ],
+    "name:wuu_x_preferred":[
+        "\u59c6\u5df4\u5df4\u5185"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d1\u10d0\u10d1\u10d0\u10dc\u10d4"
     ],
     "name:yid_x_preferred":[
         "\u05de\u05d1\u05d0\u05d1\u05d0\u05e0\u05e2"
@@ -484,7 +547,7 @@
         }
     ],
     "wof:id":421203091,
-    "wof:lastmodified":1561749159,
+    "wof:lastmodified":1563571368,
     "wof:name":"Mbabane",
     "wof:parent_id":421202651,
     "wof:placetype":"locality",
