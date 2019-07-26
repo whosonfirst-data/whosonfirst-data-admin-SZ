@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Hluti"
+    ],
+    "name:frr_x_preferred":[
+        "Hluti"
+    ],
+    "name:por_x_preferred":[
+        "Hluti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043b\u0443\u0442\u0438"
+    ],
     "qs:gn_country":"SZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":935076,
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":421200329,
-    "wof:lastmodified":1505340768,
+    "wof:lastmodified":1564178275,
     "wof:name":"Hluti",
     "wof:parent_id":1108561227,
     "wof:placetype":"locality",

@@ -35,6 +35,12 @@
     "name:eng_x_variant":[
         "Mahlangatja"
     ],
+    "name:ita_x_preferred":[
+        "Inkhundla Mahlangatja"
+    ],
+    "name:pol_x_preferred":[
+        "Mahlangatja"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561267,
-    "wof:lastmodified":1553718116,
+    "wof:lastmodified":1564178265,
     "wof:name":"Mahlangatja",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

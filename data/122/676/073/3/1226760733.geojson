@@ -25,6 +25,24 @@
     "iso:country":"SZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Ngwenya"
+    ],
+    "name:deu_x_preferred":[
+        "Ngwenya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30b0\u30a6\u30a7\u30cb\u30e3"
+    ],
+    "name:pol_x_preferred":[
+        "Ngwenya"
+    ],
+    "name:por_x_preferred":[
+        "Ngwenya"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u572d\u5c3c\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1226760733,
-    "wof:lastmodified":1537573866,
+    "wof:lastmodified":1564178279,
     "wof:name":"Ngwenya",
     "wof:parent_id":421191941,
     "wof:placetype":"locality",

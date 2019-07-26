@@ -35,6 +35,12 @@
     "name:eng_x_variant":[
         "Nkilongo"
     ],
+    "name:ita_x_preferred":[
+        "Inkhundla Nkilongo"
+    ],
+    "name:pol_x_preferred":[
+        "Nkilongo"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561241,
-    "wof:lastmodified":1553718115,
+    "wof:lastmodified":1564178269,
     "wof:name":"Nkilongo",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

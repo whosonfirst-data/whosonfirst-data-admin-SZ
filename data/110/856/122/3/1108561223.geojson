@@ -35,6 +35,12 @@
     "name:eng_x_variant":[
         "Mphalaleni"
     ],
+    "name:ita_x_preferred":[
+        "Inkhundla Maphalaleni"
+    ],
+    "name:pol_x_preferred":[
+        "Maphalaleni"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561223,
-    "wof:lastmodified":1553718114,
+    "wof:lastmodified":1564178271,
     "wof:name":"Maphalaleni",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

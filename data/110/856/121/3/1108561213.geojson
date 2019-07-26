@@ -35,6 +35,12 @@
     "name:eng_x_variant":[
         "Ludzeludze"
     ],
+    "name:ita_x_preferred":[
+        "Inkhundla Ludzeludze"
+    ],
+    "name:pol_x_preferred":[
+        "Ludzeludze"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561213,
-    "wof:lastmodified":1553718114,
+    "wof:lastmodified":1564178265,
     "wof:name":"Ludzeludze",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

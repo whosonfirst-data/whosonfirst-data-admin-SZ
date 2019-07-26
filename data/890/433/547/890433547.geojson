@@ -15,6 +15,51 @@
     "iso:country":"SZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Big Bend"
+    ],
+    "name:ceb_x_preferred":[
+        "Big Bend"
+    ],
+    "name:deu_x_preferred":[
+        "Big Bend"
+    ],
+    "name:fra_x_preferred":[
+        "Big Bend"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d2 \u05d1\u05e0\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Big Bend"
+    ],
+    "name:nld_x_preferred":[
+        "Big Bend"
+    ],
+    "name:pol_x_preferred":[
+        "Big Bend"
+    ],
+    "name:por_x_preferred":[
+        "Big Bend"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0433-\u0411\u0435\u043d\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Big Bend"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0433 \u0411\u0435\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Big Bend"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0433-\u0411\u0435\u043d\u0434"
+    ],
+    "name:vol_x_preferred":[
+        "Big Bend"
+    ],
     "qs:name":"Big Bend",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +92,7 @@
         }
     ],
     "wof:id":890433547,
-    "wof:lastmodified":1527792958,
+    "wof:lastmodified":1564178275,
     "wof:name":"Big Bend",
     "wof:parent_id":1108561241,
     "wof:placetype":"locality",

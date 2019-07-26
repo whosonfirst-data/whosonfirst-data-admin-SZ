@@ -25,6 +25,15 @@
     "iso:country":"SZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ntfonjeni"
+    ],
+    "name:ita_x_preferred":[
+        "Inkhundla Ntfonjeni"
+    ],
+    "name:pol_x_preferred":[
+        "Ntfonjeni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276781371,
-    "wof:lastmodified":1536675576,
+    "wof:lastmodified":1564178261,
     "wof:name":"Ntfonjeni",
     "wof:parent_id":421183335,
     "wof:placetype":"locality",

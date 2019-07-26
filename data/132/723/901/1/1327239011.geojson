@@ -25,6 +25,18 @@
     "iso:country":"SZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ekukhanyeni"
+    ],
+    "name:ita_x_preferred":[
+        "Inkhundla Ekukhanyeni"
+    ],
+    "name:pol_x_preferred":[
+        "Ekukhanyeni"
+    ],
+    "name:ssw_x_preferred":[
+        "Ekukhanyeni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327239011,
-    "wof:lastmodified":1536959922,
+    "wof:lastmodified":1564178256,
     "wof:name":"Ekukhanyeni",
     "wof:parent_id":1108561265,
     "wof:placetype":"locality",

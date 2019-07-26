@@ -35,6 +35,15 @@
     "name:eng_x_variant":[
         "Mtsambama"
     ],
+    "name:ita_x_preferred":[
+        "Inkhundla Mtsambama"
+    ],
+    "name:pol_x_preferred":[
+        "Mtsambama"
+    ],
+    "name:ssw_x_preferred":[
+        "Mtsambama"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1108561243,
-    "wof:lastmodified":1553718115,
+    "wof:lastmodified":1564178269,
     "wof:name":"Mtsambama",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

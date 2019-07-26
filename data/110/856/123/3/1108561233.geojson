@@ -29,11 +29,26 @@
     "mps:longitude":31.452633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kubuta"
+    ],
     "name:eng_x_preferred":[
         "Kubuta"
     ],
     "name:eng_x_variant":[
         "Kubuta"
+    ],
+    "name:ita_x_preferred":[
+        "Inkhundla Kubuta"
+    ],
+    "name:pol_x_preferred":[
+        "Kubuta"
+    ],
+    "name:por_x_preferred":[
+        "Kubuta"
+    ],
+    "name:ssw_x_preferred":[
+        "Inkhundla Kubuta"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -70,7 +85,7 @@
         }
     ],
     "wof:id":1108561233,
-    "wof:lastmodified":1553718115,
+    "wof:lastmodified":1564178267,
     "wof:name":"Kubuta",
     "wof:parent_id":85678223,
     "wof:placetype":"county",
