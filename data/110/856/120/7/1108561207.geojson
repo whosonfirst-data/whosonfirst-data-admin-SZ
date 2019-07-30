@@ -35,6 +35,12 @@
     "name:eng_x_variant":[
         "Mayiwane"
     ],
+    "name:ita_x_preferred":[
+        "Inkhundla Mayiwane"
+    ],
+    "name:pol_x_preferred":[
+        "Mayiwane"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561207,
-    "wof:lastmodified":1553718114,
+    "wof:lastmodified":1564178264,
     "wof:name":"Mayiwane",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

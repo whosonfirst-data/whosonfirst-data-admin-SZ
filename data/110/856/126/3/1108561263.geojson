@@ -29,10 +29,19 @@
     "mps:longitude":31.228767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hhukwini"
+    ],
     "name:eng_x_preferred":[
         "Hhukwini"
     ],
     "name:eng_x_variant":[
+        "Hhukwini"
+    ],
+    "name:ita_x_preferred":[
+        "Inkhundla Hhukwini"
+    ],
+    "name:pol_x_preferred":[
         "Hhukwini"
     ],
     "src:geom":"meso",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1108561263,
-    "wof:lastmodified":1553718116,
+    "wof:lastmodified":1564178266,
     "wof:name":"Hhukwini",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

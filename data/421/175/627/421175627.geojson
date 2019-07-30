@@ -30,11 +30,47 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mhlume"
+    ],
+    "name:deu_x_preferred":[
+        "Mhlume"
+    ],
     "name:eng_x_preferred":[
         "Mhlume"
     ],
     "name:eng_x_variant":[
         "Mhlume"
+    ],
+    "name:fra_x_preferred":[
+        "Mhlume"
+    ],
+    "name:frr_x_preferred":[
+        "Mhlume"
+    ],
+    "name:hrv_x_preferred":[
+        "Mhlume"
+    ],
+    "name:ita_x_preferred":[
+        "Mhlume"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30eb\u30e1"
+    ],
+    "name:lit_x_preferred":[
+        "Mhlum\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Mhlume"
+    ],
+    "name:por_x_preferred":[
+        "Mhlume"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0445\u043b\u0443\u043c\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u76e7\u6885"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -94,7 +130,7 @@
         }
     ],
     "wof:id":421175627,
-    "wof:lastmodified":1553717363,
+    "wof:lastmodified":1564178274,
     "wof:name":"Mhlume",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

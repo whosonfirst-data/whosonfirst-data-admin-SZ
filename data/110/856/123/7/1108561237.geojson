@@ -35,6 +35,15 @@
     "name:eng_x_variant":[
         "Ndzingeni"
     ],
+    "name:ita_x_preferred":[
+        "Inkhundla Ndzingeni"
+    ],
+    "name:pol_x_preferred":[
+        "Ndzingeni"
+    ],
+    "name:swe_x_preferred":[
+        "Ndzingeni"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1108561237,
-    "wof:lastmodified":1553718115,
+    "wof:lastmodified":1564178267,
     "wof:name":"Ndzingeni",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

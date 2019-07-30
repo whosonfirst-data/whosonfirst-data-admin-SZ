@@ -25,6 +25,9 @@
     "iso:country":"SZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Luyengo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242587559,
-    "wof:lastmodified":1537047206,
+    "wof:lastmodified":1564178276,
     "wof:name":"Luyengo",
     "wof:parent_id":1108561215,
     "wof:placetype":"locality",
