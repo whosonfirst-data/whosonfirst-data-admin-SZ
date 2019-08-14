@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SH"
+    ],
     "lbl:latitude":-27.062778,
     "lbl:longitude":31.368358,
     "mps:latitude":-27.055021,
@@ -275,9 +278,6 @@
         }
     ],
     "wof:id":85678223,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "ssw"
@@ -286,7 +286,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1563571349,
+    "wof:lastmodified":1565736817,
     "wof:name":"Shiselweni",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HH"
+    ],
     "lbl:latitude":-26.0664,
     "lbl:longitude":31.325509,
     "mps:latitude":-26.044565,
@@ -290,9 +293,6 @@
         }
     ],
     "wof:id":85678211,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "ssw"
@@ -301,7 +301,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1563571347,
+    "wof:lastmodified":1565736817,
     "wof:name":"Hhohho",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

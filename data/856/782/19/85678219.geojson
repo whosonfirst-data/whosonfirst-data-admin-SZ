@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":-26.640272,
     "lbl:longitude":31.229332,
     "mps:latitude":-26.621081,
@@ -275,9 +278,6 @@
         }
     ],
     "wof:id":85678219,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "ssw"
@@ -286,7 +286,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1563571348,
+    "wof:lastmodified":1565736817,
     "wof:name":"Manzini",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

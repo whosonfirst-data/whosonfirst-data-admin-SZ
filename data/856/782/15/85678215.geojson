@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LU"
+    ],
     "lbl:latitude":-26.571412,
     "lbl:longitude":31.869103,
     "mps:latitude":-26.582305,
@@ -275,9 +278,6 @@
         }
     ],
     "wof:id":85678215,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "ssw"
@@ -286,7 +286,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1563571350,
+    "wof:lastmodified":1565736817,
     "wof:name":"Lubombo",
     "wof:parent_id":85632635,
     "wof:placetype":"region",
