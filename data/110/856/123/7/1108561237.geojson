@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.022361,
     "lbl:longitude":31.445617,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"HHOHHO",
     "meso:gadm_admin":"Ndzingeni",
     "meso:gadm_hasc2":"SZ.HH.ND",
@@ -29,6 +31,7 @@
     "mps:longitude":31.445617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ndzingeni"
     ],
@@ -45,9 +48,9 @@
         "Ndzingeni"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-12",
+    "src:population_date":"2007-05-12",
     "statoids:area_km":"291.0",
     "statoids:as_of_date":"2007-05-12",
     "statoids:capital":"Ndzingeni",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108561237,
-    "wof:lastmodified":1564178267,
+    "wof:lastmodified":1566652643,
     "wof:name":"Ndzingeni",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

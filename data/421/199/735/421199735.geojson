@@ -10,8 +10,12 @@
     "geom:latitude":-26.217748,
     "geom:longitude":31.038436,
     "iso:country":"SZ",
+    "lbl:bbox":"31.018436,-26.237748,31.058436,-26.197748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Motjane"
@@ -56,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55921323,
-        "qs:id":486753,
+        "qs_pg:id":486753,
         "wd:id":"Q3798845"
     },
     "wof:country":"SZ",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421199735,
-    "wof:lastmodified":1563571376,
+    "wof:lastmodified":1566652653,
     "wof:name":"Motjane",
     "wof:parent_id":421191941,
     "wof:placetype":"locality",

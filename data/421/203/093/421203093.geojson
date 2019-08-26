@@ -10,6 +10,9 @@
     "geom:latitude":-26.48333,
     "geom:longitude":31.36667,
     "iso:country":"SZ",
+    "lbl:bbox":"31.34667,-26.50333,31.38667,-26.46333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -161,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0437\u0456\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Man\u00eaini"
     ],
     "name:urd_x_preferred":[
@@ -304,7 +307,7 @@
     "wof:concordances":{
         "gn:id":934995,
         "gp:id":1563424,
-        "qs:id":229275,
+        "qs_pg:id":229275,
         "wd:id":"Q495730",
         "wk:page":"Manzini, Swaziland"
     },
@@ -321,7 +324,7 @@
         }
     ],
     "wof:id":421203093,
-    "wof:lastmodified":1563571369,
+    "wof:lastmodified":1566652651,
     "wof:name":"Manzini",
     "wof:parent_id":1108561219,
     "wof:placetype":"locality",

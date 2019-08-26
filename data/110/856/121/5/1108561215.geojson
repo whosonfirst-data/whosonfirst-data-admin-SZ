@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.528768,
     "lbl:longitude":31.21526,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MANZINI",
     "meso:gadm_admin":"Lobamba Lomdzala",
     "meso:gadm_hasc2":"SZ.MA.LL",
@@ -29,6 +31,7 @@
     "mps:longitude":31.21526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lobamba Lomdzala"
     ],
@@ -36,9 +39,9 @@
         "Lobamba Lomdzala"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-12",
+    "src:population_date":"2007-05-12",
     "statoids:area_km":"172.0",
     "statoids:as_of_date":"2007-05-12",
     "statoids:capital":"Mahlanya",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108561215,
-    "wof:lastmodified":1553718114,
+    "wof:lastmodified":1566652641,
     "wof:name":"Mahlanya",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

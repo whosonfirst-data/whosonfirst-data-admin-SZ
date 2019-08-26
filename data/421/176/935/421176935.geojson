@@ -10,8 +10,12 @@
     "geom:latitude":-26.45,
     "geom:longitude":31.01667,
     "iso:country":"SZ",
+    "lbl:bbox":"30.99667,-26.47,31.03667,-26.43",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Mhlambanyatsi"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0445\u043b\u0430\u043c\u0431\u0430\u043d\u044c\u044f\u0442\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mhlambanyati"
     ],
     "qs:gn_country":"SZ",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":934971,
         "gp:id":1563429,
-        "qs:id":1091029,
+        "qs_pg:id":1091029,
         "wd:id":"Q3643138",
         "wk:page":"Mhlambanyatsi"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421176935,
-    "wof:lastmodified":1563571380,
+    "wof:lastmodified":1566652654,
     "wof:name":"Mhlambanyatsi",
     "wof:parent_id":1108561253,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"31.89198,-27.31005,31.89198,-27.31005",
     "geom:latitude":-27.31005,
     "geom:longitude":31.89198,
-    "gn:gn_country":"SZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2000,
+    "gn:country":"SZ",
+    "gn:fcode":"PPL",
     "gn:population":2000,
     "iso:country":"SZ",
+    "lbl:bbox":"31.87198,-27.33005,31.91198,-27.29005",
     "lbl:latitude":-27.31005,
     "lbl:longitude":31.89198,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0430\u0432\u0443\u043c\u0438\u0441\u0430"
@@ -49,7 +52,7 @@
     "name:ron_x_preferred":[
         "Lavumisa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gollel"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":130182,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125865277,
-    "wof:lastmodified":1563571381,
+    "wof:lastmodified":1566652655,
     "wof:name":"Lavumisa",
     "wof:parent_id":421195839,
     "wof:placetype":"locality",

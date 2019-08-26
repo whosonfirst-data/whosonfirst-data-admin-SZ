@@ -11,10 +11,14 @@
     "geom:longitude":31.87672,
     "gn:country":"SZ",
     "gn:fcode":"PPL",
-    "gn:pop":4155,
+    "gn:population":4155,
     "iso:country":"SZ",
+    "lbl:bbox":"31.85672,-26.09427,31.89672,-26.05427",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Vuvulane",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":7910862,
         "gp:id":1563431,
-        "qs:id":744670
+        "qs_pg:id":744670
     },
     "wof:country":"SZ",
     "wof:created":1469051732,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890428019,
-    "wof:lastmodified":1505343503,
+    "wof:lastmodified":1566652655,
     "wof:name":"Vuvulane",
     "wof:parent_id":421175627,
     "wof:placetype":"locality",

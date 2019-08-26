@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.63463,
     "lbl:longitude":32.074457,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LUBOMBO",
     "meso:gadm_admin":"Matsanjeni North",
     "meso:gadm_hasc2":"SZ.LU.MN",
@@ -29,6 +31,7 @@
     "mps:longitude":32.074457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Matsanjeni North"
     ],
@@ -36,9 +39,9 @@
         "Matsanjeni North"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-12",
+    "src:population_date":"2007-05-12",
     "statoids:area_km":"425.0",
     "statoids:as_of_date":"2007-05-12",
     "statoids:capital":"Tikhuba",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108561247,
-    "wof:lastmodified":1553718115,
+    "wof:lastmodified":1566652645,
     "wof:name":"Tikhuba",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

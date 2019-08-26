@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mbabane",
     "iso:country":"SZ",
+    "lbl:bbox":"31.3052,-26.99479,31.3452,-26.95479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343762555,
-    "wof:lastmodified":1536807633,
+    "wof:lastmodified":1566652632,
     "wof:name":"Hlatsi",
     "wof:parent_id":1108561243,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-26.668993,
     "geom:longitude":31.748428,
     "iso:country":"SZ",
+    "lbl:bbox":"31.728428,-26.6889935,31.768428,-26.6489935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Phuzumoya"
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55921322,
-        "qs:id":486752,
+        "qs_pg:id":486752,
         "wd:id":"Q15266168"
     },
     "wof:country":"SZ",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421193849,
-    "wof:lastmodified":1561749159,
+    "wof:lastmodified":1566652650,
     "wof:name":"Phuzumoya",
     "wof:parent_id":421183019,
     "wof:placetype":"locality",
