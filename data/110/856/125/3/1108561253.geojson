@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.455555,
     "lbl:longitude":30.982659,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MANZINI",
     "meso:gadm_admin":"Mhlambanyatsi",
     "meso:gadm_hasc2":"SZ.MA.MM",
@@ -29,6 +31,7 @@
     "mps:longitude":30.982659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Mhlambanyatsi"
     ],
@@ -54,9 +57,9 @@
         "\u041c\u0445\u043b\u0430\u043c\u0431\u0430\u043d\u044c\u044f\u0442\u0441\u0456"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-12",
+    "src:population_date":"2007-05-12",
     "statoids:area_km":"464.0",
     "statoids:as_of_date":"2007-05-12",
     "statoids:capital":"Mhlambanyatsi",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108561253,
-    "wof:lastmodified":1564178270,
+    "wof:lastmodified":1566652646,
     "wof:name":"Mhlambanyatsi",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-26.56667,
     "geom:longitude":31.18333,
     "iso:country":"SZ",
+    "lbl:bbox":"31.16333,-26.58667,31.20333,-26.54667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Malkerns"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":935005,
         "gp:id":1563421,
-        "qs:id":493016,
+        "qs_pg:id":493016,
         "wd:id":"Q3699336"
     },
     "wof:country":"SZ",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421173195,
-    "wof:lastmodified":1563571372,
+    "wof:lastmodified":1566652652,
     "wof:name":"Malkerns",
     "wof:parent_id":1108561215,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-25.96667,
     "geom:longitude":31.13333,
     "iso:country":"SZ",
+    "lbl:bbox":"31.11333,-25.98667,31.15333,-25.94667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Bulembu"
@@ -34,7 +38,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u043b\u0435\u043c\u0431\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Compound"
     ],
     "qs:gn_country":"SZ",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":935111,
         "gp:id":1563388,
-        "qs:id":229273,
+        "qs_pg:id":229273,
         "wd:id":"Q3643239",
         "wk:page":"Bulembu"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421203089,
-    "wof:lastmodified":1563571368,
+    "wof:lastmodified":1566652650,
     "wof:name":"Bulembu",
     "wof:parent_id":421202649,
     "wof:placetype":"locality",

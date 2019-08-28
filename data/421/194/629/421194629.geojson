@@ -10,8 +10,12 @@
     "geom:latitude":-26.20997,
     "geom:longitude":31.903524,
     "iso:country":"SZ",
+    "lbl:bbox":"31.883524,-26.22997,31.923524,-26.18997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Simunye"
@@ -71,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55921315,
-        "qs:id":888408,
+        "qs_pg:id":888408,
         "wd:id":"Q1102993"
     },
     "wof:country":"SZ",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421194629,
-    "wof:lastmodified":1563571364,
+    "wof:lastmodified":1566652649,
     "wof:name":"Simunye",
     "wof:parent_id":421186543,
     "wof:placetype":"locality",

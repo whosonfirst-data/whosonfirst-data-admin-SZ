@@ -10,8 +10,12 @@
     "geom:latitude":-27.03333,
     "geom:longitude":31.95,
     "iso:country":"SZ",
+    "lbl:bbox":"31.93,-27.05333,31.97,-27.01333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nsoko"
@@ -28,7 +32,7 @@
     "name:por_x_preferred":[
         "Nsoko"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nsoka"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":934900,
         "gp:id":1563443,
-        "qs:id":235463,
+        "qs_pg:id":235463,
         "wd:id":"Q7067578",
         "wk:page":"Nsoko"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421203869,
-    "wof:lastmodified":1563571368,
+    "wof:lastmodified":1566652650,
     "wof:name":"Nsoko",
     "wof:parent_id":421202643,
     "wof:placetype":"locality",

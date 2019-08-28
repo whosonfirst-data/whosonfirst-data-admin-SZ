@@ -11,10 +11,14 @@
     "geom:longitude":31.934509,
     "gn:country":"SZ",
     "gn:fcode":"PPLA",
-    "gn:pop":6152,
+    "gn:population":6152,
     "iso:country":"SZ",
+    "lbl:bbox":"31.914509,-26.458836,31.954509,-26.418836",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Siteki"
@@ -85,7 +89,7 @@
     "name:tur_x_preferred":[
         "Siteki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stegi"
     ],
     "name:urd_x_preferred":[
@@ -131,12 +135,12 @@
     "wof:concordances":{
         "gn:id":934851,
         "gp:id":1563453,
-        "qs:id":902083,
+        "qs_pg:id":902083,
         "wd:id":"Q2300140",
         "wk:page":"Siteki"
     },
     "wof:concordances_alt":{
-        "qs:id":130183
+        "qs_pg:id":130183
     },
     "wof:country":"SZ",
     "wof:created":1459009817,
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":421194729,
-    "wof:lastmodified":1563571365,
+    "wof:lastmodified":1566652649,
     "wof:name":"Siteki",
     "wof:parent_id":1108561281,
     "wof:placetype":"locality",
