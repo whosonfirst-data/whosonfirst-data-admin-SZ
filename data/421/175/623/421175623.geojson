@@ -101,6 +101,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459009073,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c304af711869d5e53f616021535a6fdd",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421175623,
-    "wof:lastmodified":1566652653,
+    "wof:lastmodified":1582347814,
     "wof:name":"Lomahasha",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

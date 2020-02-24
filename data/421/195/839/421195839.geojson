@@ -121,6 +121,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459009861,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"65b53f0f53b3307df21bf56e31cf31c0",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421195839,
-    "wof:lastmodified":1566652649,
+    "wof:lastmodified":1582347813,
     "wof:name":"Lavumisa",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

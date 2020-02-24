@@ -101,6 +101,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459009484,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e625eb18891ea1e43b60211e54700cd",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421186543,
-    "wof:lastmodified":1566652652,
+    "wof:lastmodified":1582347814,
     "wof:name":"Hlane",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

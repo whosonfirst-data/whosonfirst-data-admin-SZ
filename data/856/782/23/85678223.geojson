@@ -270,6 +270,9 @@
         "wk:page":"Shiselweni Region"
     },
     "wof:country":"SZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e10e30d1418b8d888203248b518cf874",
     "wof:hierarchy":[
         {
@@ -287,7 +290,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1566652634,
+    "wof:lastmodified":1582347813,
     "wof:name":"Shiselweni",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

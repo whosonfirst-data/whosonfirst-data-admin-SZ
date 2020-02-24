@@ -107,6 +107,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459008979,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b902c9d3af91e48d5cde3edafe46af8d",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421173329,
-    "wof:lastmodified":1566652652,
+    "wof:lastmodified":1582347814,
     "wof:name":"Kwaluseni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

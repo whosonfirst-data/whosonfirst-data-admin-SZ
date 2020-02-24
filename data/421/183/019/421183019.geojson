@@ -108,6 +108,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459009355,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b5ef37ce85d6be0dccc0a8458b6a1d67",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421183019,
-    "wof:lastmodified":1566652654,
+    "wof:lastmodified":1582347814,
     "wof:name":"Siphofaneni",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

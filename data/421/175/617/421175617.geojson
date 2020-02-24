@@ -87,6 +87,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459009073,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8eeea7353e4bbc5686d112943d6e72c",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421175617,
-    "wof:lastmodified":1566652652,
+    "wof:lastmodified":1582347814,
     "wof:name":"Nkaba",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

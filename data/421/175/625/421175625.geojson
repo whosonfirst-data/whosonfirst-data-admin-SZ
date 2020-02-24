@@ -106,6 +106,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459009073,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"633f9474509e6f4f0936ed14add727a6",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421175625,
-    "wof:lastmodified":1566652653,
+    "wof:lastmodified":1582347814,
     "wof:name":"Manzini",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

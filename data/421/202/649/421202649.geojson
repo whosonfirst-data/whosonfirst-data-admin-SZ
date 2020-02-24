@@ -140,6 +140,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459010125,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f2e613012cadde9470906b898c24498",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421202649,
-    "wof:lastmodified":1566652651,
+    "wof:lastmodified":1582347814,
     "wof:name":"Pigg's Peak",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

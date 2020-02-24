@@ -99,6 +99,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459009715,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64e56352224c1a29bde0121dafda7fa4",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421191941,
-    "wof:lastmodified":1566652653,
+    "wof:lastmodified":1582347814,
     "wof:name":"Motjane",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

@@ -1006,6 +1006,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
+        "naturalearth",
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1061,6 +1062,11 @@
     },
     "wof:country":"SZ",
     "wof:country_alpha3":"SWZ",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"267ca3a54028b98d5712c3a065baa4fc",
     "wof:hierarchy":[
         {
@@ -1077,7 +1083,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1566652634,
+    "wof:lastmodified":1582347813,
     "wof:name":"eSwatini",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
