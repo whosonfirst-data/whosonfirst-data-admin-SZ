@@ -101,6 +101,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459010125,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"803121e3db303b1f95490f130eef4b63",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421202643,
-    "wof:lastmodified":1566652651,
+    "wof:lastmodified":1582347813,
     "wof:name":"Lubuli",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

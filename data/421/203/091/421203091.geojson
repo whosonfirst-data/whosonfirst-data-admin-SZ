@@ -538,6 +538,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459010140,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"043af2b1771900d79dbfd2811b2f2269",
     "wof:hierarchy":[
         {
@@ -549,7 +552,7 @@
         }
     ],
     "wof:id":421203091,
-    "wof:lastmodified":1566652650,
+    "wof:lastmodified":1582347813,
     "wof:name":"Mbabane",
     "wof:parent_id":421202651,
     "wof:placetype":"locality",

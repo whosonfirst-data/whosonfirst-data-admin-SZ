@@ -285,6 +285,9 @@
         "wk:page":"Hhohho Region"
     },
     "wof:country":"SZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"129680c878ad961af212396e500ff89e",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1566652633,
+    "wof:lastmodified":1582347813,
     "wof:name":"Hhohho",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

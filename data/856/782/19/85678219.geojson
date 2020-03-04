@@ -267,6 +267,9 @@
         "wk:page":"Manzini Region"
     },
     "wof:country":"SZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58c2f38f548d415a3d754c82e73f1c8f",
     "wof:hierarchy":[
         {
@@ -284,7 +287,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1566652634,
+    "wof:lastmodified":1582347813,
     "wof:name":"Manzini",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

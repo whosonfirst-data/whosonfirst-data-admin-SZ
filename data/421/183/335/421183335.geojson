@@ -101,6 +101,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459009366,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cd42f6565f08b6369c6e24f70bfb4180",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421183335,
-    "wof:lastmodified":1566652654,
+    "wof:lastmodified":1582347814,
     "wof:name":"Ntfonjeni",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

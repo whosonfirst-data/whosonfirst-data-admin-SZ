@@ -326,6 +326,9 @@
     },
     "wof:country":"SZ",
     "wof:created":1459009185,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4bdb86642f9a2ad878aec972077f7f68",
     "wof:hierarchy":[
         {
@@ -336,7 +339,7 @@
         }
     ],
     "wof:id":421178537,
-    "wof:lastmodified":1566652654,
+    "wof:lastmodified":1582347814,
     "wof:name":"Lobamba",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

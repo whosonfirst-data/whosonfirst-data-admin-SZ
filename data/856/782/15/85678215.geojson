@@ -270,6 +270,9 @@
         "wk:page":"Lubombo Region"
     },
     "wof:country":"SZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b76bdc35180cc6897dd1c513a7d07ea5",
     "wof:hierarchy":[
         {
@@ -287,7 +290,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1566652634,
+    "wof:lastmodified":1582347813,
     "wof:name":"Lubombo",
     "wof:parent_id":85632635,
     "wof:placetype":"region",
