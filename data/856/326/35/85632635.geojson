@@ -1038,9 +1038,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Swaziland",
-        "digitalenvoy:country_code":[
-            748
-        ],
+        "digitalenvoy:country_code":748,
         "fb:id":"en.swaziland",
         "fifa:id":"SWZ",
         "fips:code":"WZ",
@@ -1085,7 +1083,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1583529227,
+    "wof:lastmodified":1583797436,
     "wof:name":"eSwatini",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
