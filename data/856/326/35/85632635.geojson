@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.57237,
-    "geom:area_square_m":17389520558.190392,
+    "geom:area_square_m":17389518233.515198,
     "geom:bbox":"30.79064,-27.317396,32.134844,-25.71792",
     "geom:latitude":-26.56576,
     "geom:longitude":31.497665,
@@ -30,11 +30,15 @@
     "name:ace_x_preferred":[
         "Swaziland"
     ],
+    "name:ace_x_variant":[
+        "Eswatini"
+    ],
     "name:afr_x_preferred":[
         "Swaziland"
     ],
     "name:afr_x_variant":[
-        "ESwatini"
+        "ESwatini",
+        "Eswatini"
     ],
     "name:aka_x_preferred":[
         "Swaziland"
@@ -53,7 +57,8 @@
         "Swasiland"
     ],
     "name:ang_x_variant":[
-        "Swasaland"
+        "Swasaland",
+        "Eswatini"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0648\u0627\u0632\u064a\u0644\u0627\u0646\u062f"
@@ -64,6 +69,12 @@
     ],
     "name:arg_x_preferred":[
         "Swazilandia"
+    ],
+    "name:arg_x_variant":[
+        "Eswatini"
+    ],
+    "name:ary_x_preferred":[
+        "\u0625\u0633\u0648\u0627\u062a\u064a\u0646\u064a"
     ],
     "name:arz_x_preferred":[
         "\u0633\u0648\u0627\u0632\u064a\u0644\u0627\u0646\u062f\u0627"
@@ -100,10 +111,17 @@
         "Swazilandi"
     ],
     "name:bam_x_variant":[
-        "Swaziland"
+        "Swaziland",
+        "Eswatini"
+    ],
+    "name:ban_x_preferred":[
+        "Eswatini"
     ],
     "name:bcl_x_preferred":[
         "Swasilandya"
+    ],
+    "name:bcl_x_variant":[
+        "Eswatini"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0432\u0430\u0437\u0456\u043b\u0435\u043d\u0434"
@@ -140,6 +158,9 @@
     "name:bre_x_preferred":[
         "Swaziland"
     ],
+    "name:bre_x_variant":[
+        "Eswatini"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434"
     ],
@@ -155,6 +176,9 @@
     ],
     "name:cdo_x_preferred":[
         "Swaziland"
+    ],
+    "name:cdo_x_variant":[
+        "Eswatini"
     ],
     "name:ceb_x_preferred":[
         "Suwasilandiya"
@@ -178,6 +202,9 @@
     "name:crh_x_preferred":[
         "Svaziland"
     ],
+    "name:crh_x_variant":[
+        "Esvatini"
+    ],
     "name:cym_x_preferred":[
         "Gwlad Swasi"
     ],
@@ -190,6 +217,12 @@
     ],
     "name:dan_x_preferred":[
         "Swaziland"
+    ],
+    "name:deu_at_x_preferred":[
+        "Swasiland"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Swasiland"
     ],
     "name:deu_x_colloquial":[
         "Koenigreich Swasiland",
@@ -221,6 +254,12 @@
         "\u0396\u03bf\u03c5\u03b1\u03b6\u03b7\u03bb\u03ac\u03bd\u03b4\u03b7",
         "\u0395\u03c3\u03bf\u03c5\u03b1\u03c4\u03af\u03bd\u03b9"
     ],
+    "name:eng_ca_x_preferred":[
+        "Eswatini"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Eswatini"
+    ],
     "name:eng_x_preferred":[
         "eSwatini"
     ],
@@ -243,6 +282,9 @@
     ],
     "name:eus_x_preferred":[
         "Swazilandia"
+    ],
+    "name:eus_x_variant":[
+        "Eswatini"
     ],
     "name:ewe_x_preferred":[
         "Swaziland"
@@ -294,11 +336,20 @@
     "name:gag_x_preferred":[
         "Svazilend"
     ],
+    "name:gcr_x_preferred":[
+        "Swaziland"
+    ],
     "name:gla_x_preferred":[
         "D\u00f9thaich nan Suasaidh"
     ],
+    "name:gla_x_variant":[
+        "R\u00ecoghachd eSwatini"
+    ],
     "name:gle_x_preferred":[
         "An tSuasalainn"
+    ],
+    "name:gle_x_variant":[
+        "R\u00edocht eSuait\u00edn\u00ed"
     ],
     "name:glg_x_preferred":[
         "Suacilandia"
@@ -312,6 +363,9 @@
     "name:grn_x_preferred":[
         "Suasil\u00e1ndia"
     ],
+    "name:grn_x_variant":[
+        "Eswatini"
+    ],
     "name:gsw_x_preferred":[
         "Swasiland"
     ],
@@ -323,6 +377,9 @@
     ],
     "name:hak_x_preferred":[
         "Swaziland"
+    ],
+    "name:hak_x_variant":[
+        "Eswatini"
     ],
     "name:hat_x_preferred":[
         "Swazilann"
@@ -351,13 +408,15 @@
     ],
     "name:hin_x_variant":[
         "\u0938\u0941\u0906\u091c\u0940\u0932\u0948\u0902\u0921",
-        "\u0938\u094d\u0935\u093e\u091c\u093c\u0940\u0932\u0948\u0902\u0921"
+        "\u0938\u094d\u0935\u093e\u091c\u093c\u0940\u0932\u0948\u0902\u0921",
+        "\u090f\u0938\u094d\u0935\u093e\u0924\u0940\u0928\u0940"
     ],
     "name:hrv_x_preferred":[
         "Svazi"
     ],
     "name:hrv_x_variant":[
-        "Svaziland"
+        "Svaziland",
+        "Esvatini"
     ],
     "name:hsb_x_preferred":[
         "Swaziska"
@@ -368,11 +427,20 @@
     "name:hye_x_preferred":[
         "\u054d\u057e\u0561\u0566\u056b\u056c\u0565\u0576\u0564"
     ],
+    "name:hye_x_variant":[
+        "\u0537\u057d\u057e\u0561\u057f\u056b\u0576\u056b"
+    ],
     "name:ibo_x_preferred":[
         "Swaziland"
     ],
+    "name:ibo_x_variant":[
+        "Eswatini"
+    ],
     "name:ido_x_preferred":[
         "Swazilando"
+    ],
+    "name:ido_x_variant":[
+        "Eswatini"
     ],
     "name:ile_x_preferred":[
         "Swaziland"
@@ -381,7 +449,8 @@
         "Suasilandia"
     ],
     "name:ilo_x_variant":[
-        "Swaziland"
+        "Swaziland",
+        "Eswatini"
     ],
     "name:ina_x_preferred":[
         "Swazilandia"
@@ -407,6 +476,9 @@
     "name:jam_x_preferred":[
         "Suazilan"
     ],
+    "name:jam_x_variant":[
+        "ESwatini"
+    ],
     "name:jav_x_preferred":[
         "Swaziland"
     ],
@@ -426,6 +498,9 @@
     "name:kab_x_preferred":[
         "Swaziland"
     ],
+    "name:kab_x_variant":[
+        "Eswatini"
+    ],
     "name:kal_x_preferred":[
         "Swazilandi"
     ],
@@ -444,6 +519,9 @@
     "name:kbp_x_preferred":[
         "Suwaziland\u0269"
     ],
+    "name:kbp_x_variant":[
+        "Eswatini"
+    ],
     "name:khm_x_preferred":[
         "\u179f\u17bc\u17a0\u17d2\u179f\u17c9\u17b8\u17a1\u1784\u17cb"
     ],
@@ -453,8 +531,14 @@
     "name:kin_x_preferred":[
         "Swazilande"
     ],
+    "name:kin_x_variant":[
+        "Eswatini"
+    ],
     "name:kir_x_preferred":[
         "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:kir_x_variant":[
+        "\u042d\u0441\u0432\u0430\u0442\u0438\u043d\u0438"
     ],
     "name:kon_x_preferred":[
         "Swati"
@@ -501,7 +585,8 @@
         "Swaziland"
     ],
     "name:lin_x_variant":[
-        "Swazilandi"
+        "Swazilandi",
+        "Eswatini"
     ],
     "name:lit_x_preferred":[
         "Svazilandas"
@@ -529,16 +614,21 @@
         "Swaziland"
     ],
     "name:lug_x_variant":[
-        "Swazirandi"
+        "Swazirandi",
+        "Eswatini"
     ],
     "name:lzh_x_preferred":[
         "\u53f2\u74e6\u6fdf\u862d"
+    ],
+    "name:lzh_x_variant":[
+        "\u53f2\u74e6\u5e1d\u5c3c"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d4d\u0d35\u0d3e\u0d38\u0d3f\u0d32\u0d3e\u0d28\u0d4d\u0d31\u0d4d"
     ],
     "name:mal_x_variant":[
-        "\u0d38\u0d4d\u0d35\u0d3e\u0d38\u0d3f\u0d32\u0d3e\u0d28\u0d4d\u200d\u0d31\u0d4d"
+        "\u0d38\u0d4d\u0d35\u0d3e\u0d38\u0d3f\u0d32\u0d3e\u0d28\u0d4d\u200d\u0d31\u0d4d",
+        "\u0d07\u0d38\u0d4d\u0d35\u0d3e\u0d31\u0d4d\u0d31\u0d3f\u0d28\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u0935\u093e\u091d\u0940\u0932\u0901\u0921"
@@ -552,17 +642,35 @@
     "name:mkd_x_preferred":[
         "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434"
     ],
+    "name:mkd_x_variant":[
+        "\u0415\u0441\u0432\u0430\u0442\u0438\u043d\u0438"
+    ],
     "name:mlg_x_preferred":[
         "Soazilandy"
+    ],
+    "name:mlg_x_variant":[
+        "Esoatiny"
     ],
     "name:mlt_x_preferred":[
         "Swa\u017ciland"
     ],
+    "name:mlt_x_variant":[
+        "Eswatini"
+    ],
     "name:mon_x_preferred":[
         "\u0421\u0432\u0430\u0437\u0438\u043b\u0430\u043d\u0434"
     ],
+    "name:mon_x_variant":[
+        "\u042d\u0441\u0432\u0430\u0442\u0438\u043d\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "Warerangi"
+    ],
     "name:msa_x_preferred":[
         "Swaziland"
+    ],
+    "name:msa_x_variant":[
+        "Eswatini"
     ],
     "name:mya_x_preferred":[
         "\u1006\u103d\u102c\u1007\u102e\u101c\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
@@ -571,13 +679,17 @@
         "\u0633\u0648\u0627\u0632\u06cc\u0644\u0646\u062f"
     ],
     "name:mzn_x_variant":[
-        "\u0633\u0648\u0632\u0627\u06cc\u0644\u0646\u062f"
+        "\u0633\u0648\u0632\u0627\u06cc\u0644\u0646\u062f",
+        "\u0627\u0633\u0648\u0627\u062a\u06cc\u0646\u06cc"
     ],
     "name:nah_x_preferred":[
         "Suazitl\u0101lpan"
     ],
     "name:nan_x_preferred":[
         "Swaziland"
+    ],
+    "name:nan_x_variant":[
+        "Eswatini"
     ],
     "name:nav_x_preferred":[
         "Sw\u00e1azi Dine\u02bc\u00e9 Bik\u00e9yah"
@@ -591,11 +703,17 @@
     "name:nep_x_preferred":[
         "\u0938\u094d\u0935\u093e\u091c\u093f\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
     ],
+    "name:new_x_preferred":[
+        "\u0938\u094d\u0935\u093e\u091c\u093f\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
+    ],
     "name:nld_x_preferred":[
         "Swaziland"
     ],
     "name:nno_x_preferred":[
         "Swaziland"
+    ],
+    "name:nno_x_variant":[
+        "Eawatini"
     ],
     "name:nob_x_preferred":[
         "Swaziland"
@@ -611,6 +729,9 @@
     ],
     "name:nso_x_preferred":[
         "Swaziland"
+    ],
+    "name:nso_x_variant":[
+        "ESwatini"
     ],
     "name:oci_x_preferred":[
         "Swaziland"
@@ -630,6 +751,9 @@
     "name:orm_x_preferred":[
         "Siwaziilaandi"
     ],
+    "name:orm_x_variant":[
+        "Eswatini"
+    ],
     "name:oss_x_preferred":[
         "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434"
     ],
@@ -648,6 +772,9 @@
     "name:pih_x_preferred":[
         "Swoseland"
     ],
+    "name:pih_x_variant":[
+        "Eswotiini"
+    ],
     "name:pli_x_preferred":[
         "\u0938\u094d\u0935\u093e\u091c\u0940\u0932\u0948\u0902\u0921"
     ],
@@ -657,17 +784,26 @@
     "name:pnb_x_preferred":[
         "\u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688"
     ],
+    "name:pnb_x_variant":[
+        "\u0627\u0633\u0648\u0627\u0679\u06cc\u0646\u06cc"
+    ],
     "name:pol_x_preferred":[
         "Suazi"
     ],
     "name:pol_x_variant":[
         "Eswatini"
     ],
+    "name:por_br_x_preferred":[
+        "Essuat\u00edni"
+    ],
     "name:por_x_colloquial":[
         "Suazilandia"
     ],
     "name:por_x_preferred":[
         "Suazil\u00e2ndia"
+    ],
+    "name:por_x_variant":[
+        "Essuat\u00edni"
     ],
     "name:pus_x_preferred":[
         "\u0633\u0648\u0627\u0632\u064a\u0644\u0627\u0646\u0689"
@@ -699,6 +835,9 @@
     "name:sag_x_preferred":[
         "Sw\u00e4z\u00efl\u00e2nde"
     ],
+    "name:sag_x_variant":[
+        "Eswatini"
+    ],
     "name:sah_x_preferred":[
         "\u0421\u0443\u0430\u0437\u0438\u043b\u044d\u043d\u0434"
     ],
@@ -711,6 +850,9 @@
     "name:sco_x_preferred":[
         "Swaziland"
     ],
+    "name:sco_x_variant":[
+        "Eswatini"
+    ],
     "name:sgs_x_preferred":[
         "Esvat\u0117nis"
     ],
@@ -719,6 +861,9 @@
     ],
     "name:slk_x_preferred":[
         "Svazijsko"
+    ],
+    "name:slk_x_variant":[
+        "Eswatini"
     ],
     "name:slv_x_preferred":[
         "Svazi"
@@ -732,6 +877,9 @@
     "name:sna_x_preferred":[
         "Swaziland"
     ],
+    "name:sna_x_variant":[
+        "Eswatini"
+    ],
     "name:snd_x_preferred":[
         "\u0633\u0648\u0627\u0632\u064a \u0644\u064a\u0646\u068a"
     ],
@@ -739,10 +887,14 @@
         "Swasiland"
     ],
     "name:som_x_variant":[
-        "Iswaasilaand"
+        "Iswaasilaand",
+        "Eswatini"
     ],
     "name:sot_x_preferred":[
         "Swatsing"
+    ],
+    "name:sot_x_variant":[
+        "Eswatini"
     ],
     "name:spa_x_preferred":[
         "Suazilandia"
@@ -759,6 +911,12 @@
     ],
     "name:srd_x_preferred":[
         "Swaziland"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0415\u0441\u0432\u0430\u0442\u0438\u043d\u0438"
+    ],
+    "name:srp_el_x_preferred":[
+        "Esvatini"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434"
@@ -778,17 +936,24 @@
     "name:swa_x_preferred":[
         "Uswazi"
     ],
+    "name:swa_x_variant":[
+        "Eswatini"
+    ],
     "name:swe_x_preferred":[
         "Swaziland"
     ],
     "name:szl_x_preferred":[
         "Suazi"
     ],
+    "name:szy_x_preferred":[
+        "Swaziland"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bb5\u0bbe\u0b9a\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
     ],
     "name:tam_x_variant":[
-        "\u0bb8\u0bcd\u0bb5\u0bbe\u0bb8\u0bbf\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd"
+        "\u0bb8\u0bcd\u0bb5\u0bbe\u0bb8\u0bbf\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd",
+        "\u0b8e\u0b9a\u0bc1\u0bb5\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434"
@@ -797,7 +962,8 @@
         "\u0c38\u0c4d\u0c35\u0c3e\u0c1c\u0c40\u0c32\u0c47\u0c02\u0c21\u0c4d"
     ],
     "name:tel_x_variant":[
-        "\u0c38\u0c4d\u0c35\u0c3e\u0c1c\u0c40\u0c32\u0c3e\u0c02\u0c21\u0c4d"
+        "\u0c38\u0c4d\u0c35\u0c3e\u0c1c\u0c40\u0c32\u0c3e\u0c02\u0c21\u0c4d",
+        "\u0c38\u0c4d\u0c35\u0c3e\u0c1c\u0c40\u0c32\u0c4d\u0c2f\u0c3e\u0c02\u0c21\u0c4d"
     ],
     "name:tgk_x_preferred":[
         "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434"
@@ -820,13 +986,17 @@
         "\u1235\u12cb\u12da\u120b\u1295\u12f5"
     ],
     "name:tir_x_variant":[
-        "\u1231\u12cb\u12da\u120b\u1295\u12f5"
+        "\u1231\u12cb\u12da\u120b\u1295\u12f5",
+        "\u12a4\u1235\u12cb\u1272\u1292"
     ],
     "name:ton_x_preferred":[
         "Suasileni"
     ],
     "name:tso_x_preferred":[
         "Swaziland"
+    ],
+    "name:tso_x_variant":[
+        "ESwatini"
     ],
     "name:tuk_x_preferred":[
         "Swazilend"
@@ -835,7 +1005,8 @@
         "Svaziland"
     ],
     "name:tur_x_variant":[
-        "Swaziland"
+        "Swaziland",
+        "Esvatini"
     ],
     "name:udm_x_preferred":[
         "\u042d\u0441\u0432\u0430\u0442\u0438\u043d\u0438"
@@ -857,6 +1028,9 @@
     "name:urd_x_preferred":[
         "\u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0633\u0648\u0627\u062a\u06cc\u0646\u06cc"
+    ],
     "name:uzb_x_preferred":[
         "Svazilend"
     ],
@@ -868,6 +1042,9 @@
     ],
     "name:vep_x_preferred":[
         "Svazilend"
+    ],
+    "name:vep_x_variant":[
+        "Esvatini"
     ],
     "name:vie_x_preferred":[
         "Swaziland"
@@ -888,6 +1065,9 @@
     "name:wol_x_preferred":[
         "Suwaasilaand"
     ],
+    "name:wol_x_variant":[
+        "Eswatini"
+    ],
     "name:wuu_x_preferred":[
         "\u65af\u5a01\u58eb\u862d"
     ],
@@ -897,6 +1077,9 @@
     "name:xmf_x_preferred":[
         "\u10e1\u10d5\u10d0\u10d6\u10d8\u10da\u10d4\u10dc\u10d3\u10d8"
     ],
+    "name:xmf_x_variant":[
+        "\u10d4\u10e1\u10d5\u10d0\u10e2\u10d8\u10dc\u10d8"
+    ],
     "name:yid_x_preferred":[
         "\u05e1\u05d5\u05d5\u05d0\u05d6\u05d9\u05dc\u05d0\u05e0\u05d3"
     ],
@@ -904,16 +1087,38 @@
         "Sw\u00e1s\u00edl\u00e1nd\u00ec"
     ],
     "name:yor_x_variant":[
-        "Or\u00edl\u1eb9\u0301\u00e8de Sa\u1e63iland"
+        "Or\u00edl\u1eb9\u0301\u00e8de Sa\u1e63iland",
+        "Eswatini"
     ],
     "name:yue_x_preferred":[
         "\u65af\u5a01\u58eb\u862d"
     ],
+    "name:zea_x_preferred":[
+        "Swaoziland"
+    ],
     "name:zha_x_preferred":[
         "Eswatini"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u65af\u5a01\u58eb\u5170"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u65af\u5a01\u58eb\u862d"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Swazi-t\u0113"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u65af\u5a01\u58eb\u862d"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u65af\u5a01\u58eb\u5170"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u65af\u5a01\u58eb\u5170"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u53f2\u74e6\u5e1d\u5c3c"
     ],
     "name:zho_x_preferred":[
         "\u65af\u5a01\u58eb\u5170"
@@ -929,7 +1134,8 @@
         "ISwazilandi"
     ],
     "name:zul_x_variant":[
-        "i-Swaziland"
+        "i-Swaziland",
+        "Eswatini"
     ],
     "ne:abbrev":"Swz.",
     "ne:abbrev_len":4,
@@ -1083,7 +1289,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1583797436,
+    "wof:lastmodified":1587428027,
     "wof:name":"eSwatini",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
