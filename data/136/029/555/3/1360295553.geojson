@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Lismore"
     ],
+    "name:hun_x_preferred":[
+        "Lismore"
+    ],
     "name:ita_x_preferred":[
         "Lismore"
     ],
@@ -80,7 +83,7 @@
         "gn:id":935049
     },
     "wof:country":"SZ",
-    "wof:geomhash":"8a347118dc9a994ea74faf2012ecbec2",
+    "wof:geomhash":"0c89ec7683040afa4485683c2d9b9788",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1360295553,
-    "wof:lastmodified":1566652648,
+    "wof:lastmodified":1636501634,
     "wof:name":"Lismore",
     "wof:parent_id":421202643,
     "wof:placetype":"locality",
@@ -102,9 +105,9 @@
 },
   "bbox": [
     31.93333,
-    -27.11667000000001,
+    -27.11667,
     31.93333,
-    -27.11667000000001
+    -27.11667
 ],
-  "geometry": {"coordinates":[31.93333,-27.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.93333,-27.11667],"type":"Point"}
 }

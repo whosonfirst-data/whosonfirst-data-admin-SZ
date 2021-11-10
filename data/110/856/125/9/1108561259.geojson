@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Shiselweni"
     ],
+    "name:hun_x_preferred":[
+        "Shiselweni"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108561259,
-    "wof:lastmodified":1627522810,
+    "wof:lastmodified":1636501633,
     "wof:name":"Shiselweni",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

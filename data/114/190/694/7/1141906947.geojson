@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"31.9000060615,-27.2961775525,31.9000060615,-27.2961775525",
+    "geom:bbox":"31.900006,-27.296178,31.900006,-27.296178",
     "geom:latitude":-27.296178,
     "geom:longitude":31.900006,
     "iso:country":"SZ",
@@ -24,11 +24,44 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0644\u064a\u0644\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09b2\u09c7\u09b2\u09be"
+    ],
     "name:deu_x_preferred":[
         "EGolela"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03bb\u03ad\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Golela"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0644\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Golela"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05dc\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094b\u0932\u0947\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Golela"
+    ],
+    "name:ind_x_preferred":[
+        "Golela"
+    ],
+    "name:ita_x_preferred":[
+        "Golela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30ec\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uace8\ub810\ub77c"
     ],
     "name:nld_x_preferred":[
         "Golela"
@@ -36,8 +69,38 @@
     "name:nso_x_preferred":[
         "Golela"
     ],
+    "name:pol_x_preferred":[
+        "Golela"
+    ],
     "name:por_x_preferred":[
         "Golela"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Golela"
+    ],
+    "name:swe_x_preferred":[
+        "Golela"
+    ],
+    "name:tur_x_preferred":[
+        "Golela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0644\u06cc\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Golela"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6208\u83b1\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6208\u840a\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Swaziland",
@@ -147,7 +210,7 @@
     },
     "wof:country":"SZ",
     "wof:created":1499130660,
-    "wof:geomhash":"a2515d1f2262f7563f9ba4d656fb806c",
+    "wof:geomhash":"ae9353acb5d9355897f3ec2e62f35ff2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -158,7 +221,7 @@
         }
     ],
     "wof:id":1141906947,
-    "wof:lastmodified":1566652659,
+    "wof:lastmodified":1636501635,
     "wof:name":"Golela",
     "wof:parent_id":421195839,
     "wof:placetype":"locality",
@@ -168,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.90000606153848,
-    -27.2961775525016,
-    31.90000606153848,
-    -27.2961775525016
+    31.900006,
+    -27.296178,
+    31.900006,
+    -27.296178
 ],
-  "geometry": {"coordinates":[31.90000606153848,-27.2961775525016],"type":"Point"}
+  "geometry": {"coordinates":[31.900006,-27.296178],"type":"Point"}
 }
