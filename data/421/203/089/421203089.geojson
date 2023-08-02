@@ -29,7 +29,13 @@
     "name:eng_x_preferred":[
         "Bulembu"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ec\u30f3\u30d6"
+    ],
     "name:nld_x_preferred":[
+        "Bulembu"
+    ],
+    "name:pol_x_preferred":[
         "Bulembu"
     ],
     "name:por_x_preferred":[
@@ -40,6 +46,9 @@
     ],
     "name:und_x_variant":[
         "Compound"
+    ],
+    "name:zul_x_preferred":[
+        "IBulembu"
     ],
     "qs:gn_country":"SZ",
     "qs:gn_fcode":"PPL",
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":421203089,
-    "wof:lastmodified":1566652650,
+    "wof:lastmodified":1690868436,
     "wof:name":"Bulembu",
     "wof:parent_id":421202649,
     "wof:placetype":"locality",

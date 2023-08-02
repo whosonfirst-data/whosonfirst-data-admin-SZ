@@ -41,6 +41,12 @@
     "name:spa_x_preferred":[
         "Kwaluseni"
     ],
+    "name:vie_x_preferred":[
+        "Kwaluseni"
+    ],
+    "name:zul_x_preferred":[
+        "Kwaluseni"
+    ],
     "qs:gn_country":"SZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":935054,
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421188247,
-    "wof:lastmodified":1566652652,
+    "wof:lastmodified":1690868438,
     "wof:name":"Kwaluseni",
     "wof:parent_id":421173329,
     "wof:placetype":"locality",

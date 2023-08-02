@@ -36,6 +36,9 @@
     "name:ceb_x_preferred":[
         "Ntfonjeni"
     ],
+    "name:cym_x_preferred":[
+        "Ntfonjeni"
+    ],
     "name:deu_x_preferred":[
         "Ntfonjeni"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421183335,
-    "wof:lastmodified":1627522810,
+    "wof:lastmodified":1690868439,
     "wof:name":"Ntfonjeni",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

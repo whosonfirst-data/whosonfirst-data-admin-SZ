@@ -36,6 +36,9 @@
     "name:ceb_x_preferred":[
         "Hlane"
     ],
+    "name:cym_x_preferred":[
+        "Hlane"
+    ],
     "name:deu_x_preferred":[
         "Hlane"
     ],
@@ -52,6 +55,18 @@
         "Hlane"
     ],
     "name:pol_x_preferred":[
+        "Hlane"
+    ],
+    "name:spa_x_preferred":[
+        "Hlane"
+    ],
+    "name:ssw_x_preferred":[
+        "Hlane"
+    ],
+    "name:swa_x_preferred":[
+        "Hlane"
+    ],
+    "name:vie_x_preferred":[
         "Hlane"
     ],
     "qs:gn_country":null,
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":421186543,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1690868438,
     "wof:name":"Hlane",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

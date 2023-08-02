@@ -36,6 +36,9 @@
     "name:ceb_x_preferred":[
         "Lomashasha"
     ],
+    "name:cym_x_preferred":[
+        "Lomahasha"
+    ],
     "name:deu_x_preferred":[
         "Lomahasha"
     ],
@@ -52,6 +55,12 @@
         "Lomahasha"
     ],
     "name:pol_x_preferred":[
+        "Lomahasha"
+    ],
+    "name:ssw_x_preferred":[
+        "Lomahasha"
+    ],
+    "name:vie_x_preferred":[
         "Lomahasha"
     ],
     "qs:gn_country":null,
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":421175623,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1690868438,
     "wof:name":"Lomahasha",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

@@ -25,10 +25,16 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0628\u0627\u0645\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0628\u0627\u0645\u0628\u0627"
+    ],
     "name:ast_x_preferred":[
         "Lobamba"
     ],
     "name:aze_x_preferred":[
+        "Lobamba"
+    ],
+    "name:ban_x_preferred":[
         "Lobamba"
     ],
     "name:bcl_x_preferred":[
@@ -37,8 +43,14 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u0431\u0430\u043c\u0431\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041b\u0430\u0431\u0430\u043c\u0431\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09ac\u09be\u09ae\u09cd\u09ac\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09cb\u09ac\u09c7\u09ae\u09cd\u09ac\u09be"
     ],
     "name:bos_x_preferred":[
         "Lobamba"
@@ -103,6 +115,9 @@
     "name:gla_x_preferred":[
         "Lobamba"
     ],
+    "name:gle_x_preferred":[
+        "Lobamba"
+    ],
     "name:glg_x_preferred":[
         "Lobamba"
     ],
@@ -125,6 +140,9 @@
         "\u053c\u0578\u0562\u0561\u0574\u0562\u0561"
     ],
     "name:ile_x_preferred":[
+        "Lobamba"
+    ],
+    "name:ina_x_preferred":[
         "Lobamba"
     ],
     "name:ind_x_preferred":[
@@ -154,8 +172,14 @@
     "name:lmo_x_preferred":[
         "Lobamba"
     ],
+    "name:ltz_x_preferred":[
+        "Lobamba"
+    ],
     "name:msa_x_preferred":[
         "Lobamba"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0648\u0628\u0627\u0645\u0628\u0627"
     ],
     "name:nan_x_preferred":[
         "Lobamba"
@@ -199,6 +223,9 @@
     "name:slk_x_preferred":[
         "Lobamba"
     ],
+    "name:smn_x_preferred":[
+        "Lobamba"
+    ],
     "name:sna_x_preferred":[
         "Lobamba"
     ],
@@ -206,6 +233,9 @@
         "Lobamba"
     ],
     "name:spa_x_preferred":[
+        "Lobamba"
+    ],
+    "name:srd_x_preferred":[
         "Lobamba"
     ],
     "name:srp_x_preferred":[
@@ -225,6 +255,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bcb\u0baa\u0bae\u0bcd\u0baa\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u0431\u0430\u043c\u0431\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c4a\u0c2c\u0c3e\u0c02\u0c2c\u0c3e"
@@ -267,6 +300,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u73ed\u5df4"
+    ],
+    "name:zul_x_preferred":[
+        "ILobamba"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Swaziland",
@@ -416,7 +452,7 @@
         }
     ],
     "wof:id":421199783,
-    "wof:lastmodified":1636501634,
+    "wof:lastmodified":1690868439,
     "wof:name":"Lobamba",
     "wof:parent_id":421178537,
     "wof:placetype":"locality",
