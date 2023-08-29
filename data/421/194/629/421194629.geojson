@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Simunye"
+    ],
     "name:deu_x_preferred":[
         "Simunye"
     ],
@@ -41,8 +44,17 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u043c\u0443\u043d\u044c\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u043c\u0443\u043d\u0458\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Simunye"
+    ],
     "name:zho_x_preferred":[
         "\u932b\u7a46\u6d85"
+    ],
+    "name:zul_x_preferred":[
+        "ISimunye"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":421194629,
-    "wof:lastmodified":1566652649,
+    "wof:lastmodified":1690868435,
     "wof:name":"Simunye",
     "wof:parent_id":421186543,
     "wof:placetype":"locality",

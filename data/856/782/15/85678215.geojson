@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0648\u0628\u0648\u0645\u0628\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Lubombo"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09ac\u09cb\u09ae\u09cd\u09ac\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
@@ -59,6 +62,9 @@
     "name:eng_x_variant":[
         "Lubombo District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0644\u0648\u0628\u0648\u0645\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Lubombo"
     ],
@@ -80,6 +86,9 @@
     "name:hun_x_preferred":[
         "Lubombo"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u0562\u0578\u0574\u0562\u0578"
+    ],
     "name:ind_x_preferred":[
         "Distrik Lubombo"
     ],
@@ -98,11 +107,17 @@
     "name:kor_x_preferred":[
         "\ub8e8\ubd04\ubcf4 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub8e8\ubd04\ubcf4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Lubombo re\u0123ions"
     ],
     "name:lit_x_preferred":[
         "Lubombo rajonas"
+    ],
+    "name:ltz_x_preferred":[
+        "Lubombo"
     ],
     "name:mar_x_preferred":[
         "\u0932\u0941\u092c\u094d\u092e\u094d\u092c\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -133,6 +148,9 @@
     ],
     "name:spa_x_preferred":[
         "Lubombo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0431\u043e\u043c\u0431\u043e"
     ],
     "name:ssw_x_preferred":[
         "Lubombo"
@@ -169,6 +187,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5362\u90a6\u535a"
+    ],
+    "name:zul_x_preferred":[
+        "ILubombo"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SWZ",
@@ -293,7 +314,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1636501633,
+    "wof:lastmodified":1690868434,
     "wof:name":"Lubombo",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

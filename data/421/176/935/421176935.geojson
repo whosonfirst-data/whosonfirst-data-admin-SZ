@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Mhlambanyatsi"
     ],
+    "name:pol_x_preferred":[
+        "Mhlambanyatsi"
+    ],
     "name:por_x_preferred":[
         "Mhlambanyatsi"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:und_x_variant":[
         "Mhlambanyati"
+    ],
+    "name:zul_x_preferred":[
+        "EMhlambanyatsi"
     ],
     "qs:gn_country":"SZ",
     "qs:gn_fcode":"PPL",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421176935,
-    "wof:lastmodified":1566652654,
+    "wof:lastmodified":1690868440,
     "wof:name":"Mhlambanyatsi",
     "wof:parent_id":1108561253,
     "wof:placetype":"locality",

@@ -22,14 +22,26 @@
     "name:ceb_x_preferred":[
         "Tshaneni"
     ],
+    "name:deu_x_preferred":[
+        "Tshaneni"
+    ],
     "name:eng_x_preferred":[
+        "Tshaneni"
+    ],
+    "name:fra_x_preferred":[
         "Tshaneni"
     ],
     "name:nld_x_preferred":[
         "Tshaneni"
     ],
+    "name:por_x_preferred":[
+        "Tjaneni"
+    ],
     "name:und_x_variant":[
         "Tahaneni"
+    ],
+    "name:vie_x_preferred":[
+        "Tshaneni"
     ],
     "qs:name":"Tshaneni",
     "qs:photos_9r":0,
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":890431363,
-    "wof:lastmodified":1566652655,
+    "wof:lastmodified":1690868440,
     "wof:name":"Tshaneni",
     "wof:parent_id":421175627,
     "wof:placetype":"locality",

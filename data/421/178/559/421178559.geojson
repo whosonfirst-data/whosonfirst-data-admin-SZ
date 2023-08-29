@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mhlume"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0445\u043b\u0443\u043c\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Mhlume"
     ],
     "name:ceb_x_preferred":[
         "Mhlume"
@@ -56,11 +62,20 @@
     "name:por_x_preferred":[
         "Mhlume"
     ],
+    "name:ron_x_preferred":[
+        "Mhlume"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0445\u043b\u0443\u043c\u0435"
     ],
+    "name:vie_x_preferred":[
+        "Mhlume"
+    ],
     "name:zho_x_preferred":[
         "\u59c6\u76e7\u6885"
+    ],
+    "name:zul_x_preferred":[
+        "EMhlume"
     ],
     "qs:gn_country":"SZ",
     "qs:gn_fcode":"PPL",
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":421178559,
-    "wof:lastmodified":1566652654,
+    "wof:lastmodified":1690868439,
     "wof:name":"Mhlume",
     "wof:parent_id":421175627,
     "wof:placetype":"locality",

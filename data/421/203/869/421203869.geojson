@@ -17,7 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Nsoko"
+    ],
+    "name:cat_x_preferred":[
+        "Nsoko"
+    ],
     "name:ceb_x_preferred":[
+        "Nsoko"
+    ],
+    "name:deu_x_preferred":[
         "Nsoko"
     ],
     "name:eng_x_preferred":[
@@ -35,8 +44,14 @@
     "name:und_x_variant":[
         "Nsoka"
     ],
+    "name:vie_x_preferred":[
+        "Nsoko"
+    ],
     "name:zho_x_preferred":[
         "\u6069\u7d22\u79d1"
+    ],
+    "name:zul_x_preferred":[
+        "INsoko"
     ],
     "qs:gn_country":"SZ",
     "qs:gn_fcode":"PPL",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":421203869,
-    "wof:lastmodified":1566652650,
+    "wof:lastmodified":1690868436,
     "wof:name":"Nsoko",
     "wof:parent_id":421202643,
     "wof:placetype":"locality",

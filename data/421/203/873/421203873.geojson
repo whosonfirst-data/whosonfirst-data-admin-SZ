@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u063a\u0632 \u0628\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062c\u0632 \u0628\u064a\u0643"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u0997\u09b8 \u09aa\u09bf\u0995"
+    ],
+    "name:cat_x_preferred":[
+        "Piggs Peak"
     ],
     "name:ceb_x_preferred":[
         "Piggs Peak"
@@ -89,6 +95,9 @@
     "name:spa_x_preferred":[
         "Piggs Peak"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0433\u0437 \u041f\u0438\u043a"
+    ],
     "name:swe_x_preferred":[
         "Piggs Peak"
     ],
@@ -101,8 +110,14 @@
     "name:urd_x_preferred":[
         "\u067e\u06cc\u06af\u0632 \u067e\u06cc\u06a9"
     ],
+    "name:vie_x_preferred":[
+        "Piggs Peak"
+    ],
     "name:zho_x_preferred":[
         "\u76ae\u683c\u65af\u76ae\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "IPiggs Peak"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Swaziland",
@@ -243,7 +258,7 @@
         }
     ],
     "wof:id":421203873,
-    "wof:lastmodified":1636501634,
+    "wof:lastmodified":1690868435,
     "wof:name":"Piggs Peak",
     "wof:parent_id":421202649,
     "wof:placetype":"locality",

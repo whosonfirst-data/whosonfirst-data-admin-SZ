@@ -60,6 +60,12 @@
     "name:spa_x_preferred":[
         "Kwaluseni"
     ],
+    "name:vie_x_preferred":[
+        "Kwaluseni"
+    ],
+    "name:zul_x_preferred":[
+        "Kwaluseni"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421173329,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1690868438,
     "wof:name":"Kwaluseni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",
