@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.57237,
-    "geom:area_square_m":17389518233.515198,
+    "geom:area_square_m":17389518233.516182,
     "geom:bbox":"30.79064,-27.317396,32.134844,-25.71792",
     "geom:latitude":-26.56576,
     "geom:longitude":31.497665,
@@ -13,6 +13,9 @@
     "iso:country":"SZ",
     "itu:country_code":[
         "268"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SZ"
@@ -1421,7 +1424,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"268",
     "statoids:ds":"SD",
     "statoids:fifa":"SWZ",
@@ -1480,7 +1484,7 @@
         "naturalearth",
         "meso"
     ],
-    "wof:geomhash":"5aaacba1b91551e48ce689199ebf6d7e",
+    "wof:geomhash":"cf717cf8292d3945d757ed854c1c49d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1496,12 +1500,12 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1690868434,
+    "wof:lastmodified":1694639538,
     "wof:name":"eSwatini",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":1249514,
-    "wof:population_rank":12,
+    "wof:population":1148130,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sz",
     "wof:shortcode":"SZ",
     "wof:superseded_by":[],
