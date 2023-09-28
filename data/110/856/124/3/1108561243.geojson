@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024888,
-    "geom:area_square_m":274301580.74755,
+    "geom:area_square_m":274301260.467109,
     "geom:bbox":"31.253253,-27.041917,31.531577,-26.885502",
     "geom:latitude":-26.959413,
     "geom:longitude":31.385588,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982918,
-    "wof:geomhash":"6b859a1ea4c65f02d796601d0d5d6eeb",
+    "wof:geomhash":"015d49e4ea3adf5b4a6ba36e87beb090",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108561243,
-    "wof:lastmodified":1627522809,
+    "wof:lastmodified":1695886510,
     "wof:name":"Mtsambama",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

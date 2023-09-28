@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020423,
-    "geom:area_square_m":224497596.631076,
+    "geom:area_square_m":224497045.368287,
     "geom:bbox":"31.38388,-27.31565,31.610369,-27.15383",
     "geom:latitude":-27.25528,
     "geom:longitude":31.487643,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982932,
-    "wof:geomhash":"eea47e8dc15c44c67523cc6dbefb0baf",
+    "wof:geomhash":"6c7dc7cba94c4962a88080c7576e26ae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108561259,
-    "wof:lastmodified":1636501633,
+    "wof:lastmodified":1695886792,
     "wof:name":"Shiselweni",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

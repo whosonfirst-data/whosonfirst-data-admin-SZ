@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02442,
-    "geom:area_square_m":271530732.503107,
+    "geom:area_square_m":271530866.217015,
     "geom:bbox":"31.515191,-26.055601,31.76541,-25.824264",
     "geom:latitude":-25.944546,
     "geom:longitude":31.629238,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.HH.MH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982887,
-    "wof:geomhash":"70406c737a21017767c51bbaad609120",
+    "wof:geomhash":"15539a4303aec36b14a97767b52bbc5e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108561209,
-    "wof:lastmodified":1627522809,
+    "wof:lastmodified":1695886510,
     "wof:name":"Mhlangatane",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

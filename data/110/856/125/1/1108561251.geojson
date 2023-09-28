@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037912,
-    "geom:area_square_m":416884629.780814,
+    "geom:area_square_m":416884621.073857,
     "geom:bbox":"31.603862,-27.316891,31.819404,-27.07457",
     "geom:latitude":-27.216195,
     "geom:longitude":31.724251,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.MJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982926,
-    "wof:geomhash":"86936d3ec1664fa9fdf1f6008d8de9e9",
+    "wof:geomhash":"bb876ab8a52f8900880a13508122b2ed",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108561251,
-    "wof:lastmodified":1627522809,
+    "wof:lastmodified":1695886510,
     "wof:name":"Matsanjeni",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044457,
-    "geom:area_square_m":494184847.173984,
+    "geom:area_square_m":494184884.31118,
     "geom:bbox":"31.087332,-26.092543,31.430243,-25.86371",
     "geom:latitude":-25.975154,
     "geom:longitude":31.245733,
@@ -153,12 +153,13 @@
         "qs_pg:id":225212,
         "wd:id":"Q1950487"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459010125,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c6a1ca2d56713678572e42b0ae6638c8",
+    "wof:geomhash":"4288f234fc3417854e9d6ac8554e7fd1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421202649,
-    "wof:lastmodified":1690868437,
+    "wof:lastmodified":1695886791,
     "wof:name":"Pigg's Peak",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016603,
-    "geom:area_square_m":182803614.544975,
+    "geom:area_square_m":182803354.396606,
     "geom:bbox":"31.577397,-27.147647,31.77793,-26.971459",
     "geom:latitude":-27.074523,
     "geom:longitude":31.664205,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982945,
-    "wof:geomhash":"e7a78a7bec023f82842befeef3d3f218",
+    "wof:geomhash":"b295d52dbfe488329054baa8b4936e29",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108561279,
-    "wof:lastmodified":1627522810,
+    "wof:lastmodified":1695886512,
     "wof:name":"Sigwe",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

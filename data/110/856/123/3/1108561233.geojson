@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02049,
-    "geom:area_square_m":226082374.320565,
+    "geom:area_square_m":226082583.822287,
     "geom:bbox":"31.362372,-26.910257,31.552974,-26.755226",
     "geom:latitude":-26.831385,
     "geom:longitude":31.454444,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982909,
-    "wof:geomhash":"bf37940a768478a1cd2a1f37955c036b",
+    "wof:geomhash":"0f6757f0e0961acb120de5ca5a998d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108561233,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Kubuta",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

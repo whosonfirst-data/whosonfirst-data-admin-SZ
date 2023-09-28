@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013848,
-    "geom:area_square_m":153203373.393401,
+    "geom:area_square_m":153203502.963327,
     "geom:bbox":"31.14525,-26.592927,31.292219,-26.451832",
     "geom:latitude":-26.52928,
     "geom:longitude":31.216698,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.MA.LL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982893,
-    "wof:geomhash":"29f735bd8f9bf44ae68f193b721bdae4",
+    "wof:geomhash":"a4573207a08834d6773fc4c713adcdbe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108561215,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Mahlanya",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

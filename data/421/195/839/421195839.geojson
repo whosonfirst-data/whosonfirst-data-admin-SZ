@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028758,
-    "geom:area_square_m":316189761.007838,
+    "geom:area_square_m":316189982.478073,
     "geom:bbox":"31.798752,-27.317396,31.977473,-27.092438",
     "geom:latitude":-27.228923,
     "geom:longitude":31.88687,
@@ -137,12 +137,13 @@
         "qs_pg:id":127926,
         "wd:id":"Q3312840"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459009861,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a5f1ce5c6eb0867c304b82d92baebce",
+    "wof:geomhash":"083b3d28e135328d2514279652e709c1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421195839,
-    "wof:lastmodified":1690868435,
+    "wof:lastmodified":1695886791,
     "wof:name":"Lavumisa",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

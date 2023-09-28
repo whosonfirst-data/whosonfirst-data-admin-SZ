@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012413,
-    "geom:area_square_m":136708484.676482,
+    "geom:area_square_m":136708519.548993,
     "geom:bbox":"31.483926,-27.105829,31.617845,-26.96721",
     "geom:latitude":-27.038082,
     "geom:longitude":31.552455,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982906,
-    "wof:geomhash":"3529ddb01d828f0a2aeeb491d7c47022",
+    "wof:geomhash":"f7e7b48d03723e23ea9759b917a68cab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108561229,
-    "wof:lastmodified":1627522809,
+    "wof:lastmodified":1695886510,
     "wof:name":"Ngudzeni",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

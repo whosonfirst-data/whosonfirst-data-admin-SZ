@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040866,
-    "geom:area_square_m":452796142.168119,
+    "geom:area_square_m":452796454.375436,
     "geom:bbox":"31.911036,-26.511784,32.105158,-26.171413",
     "geom:latitude":-26.352984,
     "geom:longitude":32.014395,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.LU.LG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982947,
-    "wof:geomhash":"57e6706f3080f9df2db1f34f87d97585",
+    "wof:geomhash":"6dd618469662b8efebd6bd98101eaa8d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108561281,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Lugongolweni",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

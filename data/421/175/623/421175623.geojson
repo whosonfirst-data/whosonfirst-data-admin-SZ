@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02816,
-    "geom:area_square_m":312795898.84201,
+    "geom:area_square_m":312795996.162505,
     "geom:bbox":"31.878689,-26.186854,32.103061,-25.952684",
     "geom:latitude":-26.062894,
     "geom:longitude":32.005164,
@@ -111,12 +111,13 @@
         "qs_pg:id":383403,
         "wd:id":"Q576512"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459009073,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"deb9732f50295afefc6776bb198b6467",
+    "wof:geomhash":"624a844eb5a6a1247016b8264e9c9d42",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421175623,
-    "wof:lastmodified":1690868438,
+    "wof:lastmodified":1695886508,
     "wof:name":"Lomahasha",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

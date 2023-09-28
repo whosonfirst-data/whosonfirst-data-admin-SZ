@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050122,
-    "geom:area_square_m":552589687.408033,
+    "geom:area_square_m":552589459.217908,
     "geom:bbox":"30.894558,-27.083249,31.208275,-26.77389",
     "geom:latitude":-26.924457,
     "geom:longitude":31.043418,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.GE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982951,
-    "wof:geomhash":"03396f52426c8eadc7289ee4e7cd6b50",
+    "wof:geomhash":"76f32bceb7e7f27bc8bc46e31677f161",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108561287,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Gege",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

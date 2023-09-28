@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051802,
-    "geom:area_square_m":572694426.428444,
+    "geom:area_square_m":572694556.132986,
     "geom:bbox":"31.638816,-26.752763,32.020933,-26.417022",
     "geom:latitude":-26.60901,
     "geom:longitude":31.872806,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.LU.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982954,
-    "wof:geomhash":"c33671698bc2a42e5094605b54fc37f7",
+    "wof:geomhash":"3de17e756ccdf58a0e24c0f3ba7850a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108561291,
-    "wof:lastmodified":1627522809,
+    "wof:lastmodified":1695886511,
     "wof:name":"Mpolonjeni",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

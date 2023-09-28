@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024875,
-    "geom:area_square_m":276199629.424485,
+    "geom:area_square_m":276199671.123127,
     "geom:bbox":"31.47634,-26.208293,31.685332,-26.015046",
     "geom:latitude":-26.109879,
     "geom:longitude":31.582845,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.HH.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982939,
-    "wof:geomhash":"065a511095097fdcd3c994eb35e3948c",
+    "wof:geomhash":"67a5b39ce7cfbb6c1784364cc0cb8c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108561269,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Madlangampisi",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

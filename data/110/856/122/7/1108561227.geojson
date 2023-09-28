@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027252,
-    "geom:area_square_m":299814550.088631,
+    "geom:area_square_m":299814550.088609,
     "geom:bbox":"31.3857330589,-27.2484430082,31.6681552936,-27.0858157617",
     "geom:latitude":-27.16121,
     "geom:longitude":31.5278,
@@ -163,9 +163,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982904,
-    "wof:geomhash":"142f1d34a1940d8a6be9c40b333d2a1a",
+    "wof:geomhash":"3d3150cfe99e2a08584b5ed4c4151243",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":1108561227,
-    "wof:lastmodified":1566652646,
+    "wof:lastmodified":1695886442,
     "wof:name":"Hosea",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

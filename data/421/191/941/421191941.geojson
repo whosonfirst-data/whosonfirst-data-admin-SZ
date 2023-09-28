@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029667,
-    "geom:area_square_m":328854925.655445,
+    "geom:area_square_m":328854994.220205,
     "geom:bbox":"30.893196,-26.445991,31.124971,-26.166438",
     "geom:latitude":-26.305511,
     "geom:longitude":31.028263,
@@ -100,12 +100,13 @@
         "qs_pg:id":1164298,
         "wd:id":"Q3798845"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459009715,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3c476acc8de1bbb7fae0e25ecc1187f5",
+    "wof:geomhash":"2ecce482aaebb486111e7c6483350d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421191941,
-    "wof:lastmodified":1627522809,
+    "wof:lastmodified":1695886509,
     "wof:name":"Motjane",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

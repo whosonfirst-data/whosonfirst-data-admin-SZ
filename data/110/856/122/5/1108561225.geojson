@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037836,
-    "geom:area_square_m":419517447.720846,
+    "geom:area_square_m":419517407.465237,
     "geom:bbox":"31.422945,-26.387863,31.699783,-26.161949",
     "geom:latitude":-26.274708,
     "geom:longitude":31.578636,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.MA.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982903,
-    "wof:geomhash":"925005bbf58425dbac5c6aeacfe133d9",
+    "wof:geomhash":"67328db0ae0bcfe603d9d1ed65959235",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108561225,
-    "wof:lastmodified":1627522809,
+    "wof:lastmodified":1695886510,
     "wof:name":"Mkhiweni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

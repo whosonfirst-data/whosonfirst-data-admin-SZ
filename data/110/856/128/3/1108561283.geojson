@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052473,
-    "geom:area_square_m":580947457.89553,
+    "geom:area_square_m":580947036.076442,
     "geom:bbox":"31.574009,-26.567403,31.962531,-26.285132",
     "geom:latitude":-26.444115,
     "geom:longitude":31.774774,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.LU.DV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982948,
-    "wof:geomhash":"d56d95a16797df0191dbb0f025cdbd8c",
+    "wof:geomhash":"1aca65db5b933493bb13f26b9231af3a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108561283,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Dvokodvweni",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

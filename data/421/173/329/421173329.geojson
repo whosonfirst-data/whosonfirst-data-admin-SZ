@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002496,
-    "geom:area_square_m":27623704.677223,
+    "geom:area_square_m":27623687.581726,
     "geom:bbox":"31.285699,-26.534104,31.353338,-26.479397",
     "geom:latitude":-26.506652,
     "geom:longitude":31.315611,
@@ -114,12 +114,13 @@
         "qs_pg:id":286996,
         "wd:id":"Q3798822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459008979,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4de84d9b3e63b334b0d480ea2d64625b",
+    "wof:geomhash":"d7e0b9c8b3a9d000e5204f69998e5939",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421173329,
-    "wof:lastmodified":1690868438,
+    "wof:lastmodified":1695886508,
     "wof:name":"Kwaluseni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008933,
-    "geom:area_square_m":99004369.411457,
+    "geom:area_square_m":99004356.101623,
     "geom:bbox":"31.067593,-26.380718,31.180804,-26.269833",
     "geom:latitude":-26.326313,
     "geom:longitude":31.127298,
@@ -492,12 +492,13 @@
         "qs_pg:id":225213,
         "wd:id":"Q3904"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459010125,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8516bc5ecdbe56baf743837f08e8c795",
+    "wof:geomhash":"0a55baaf637bddc9d5758be06f93c9e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -507,7 +508,7 @@
         }
     ],
     "wof:id":421202651,
-    "wof:lastmodified":1690868437,
+    "wof:lastmodified":1695886791,
     "wof:name":"Mbabane",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

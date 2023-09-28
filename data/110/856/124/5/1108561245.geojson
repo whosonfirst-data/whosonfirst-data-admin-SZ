@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060356,
-    "geom:area_square_m":665736303.267895,
+    "geom:area_square_m":665736439.246924,
     "geom:bbox":"31.488183,-27.041796,31.839488,-26.731139",
     "geom:latitude":-26.869589,
     "geom:longitude":31.659445,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.LU.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982919,
-    "wof:geomhash":"6d23e613a97b6122b01683e2b3b42487",
+    "wof:geomhash":"11adb728a3b3462b0643e683b6ef691b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108561245,
-    "wof:lastmodified":1627522810,
+    "wof:lastmodified":1695886511,
     "wof:name":"Sithobela",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

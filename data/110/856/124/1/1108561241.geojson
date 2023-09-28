@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043166,
-    "geom:area_square_m":476281372.980107,
+    "geom:area_square_m":476281331.957587,
     "geom:bbox":"31.737748,-26.966864,32.019771,-26.679081",
     "geom:latitude":-26.833245,
     "geom:longitude":31.906503,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.LU.NK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982917,
-    "wof:geomhash":"8b32639019ea56665c5e5c698e16d646",
+    "wof:geomhash":"478e5e51b84f6c78a2bb739e90285f47",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108561241,
-    "wof:lastmodified":1627522810,
+    "wof:lastmodified":1695886511,
     "wof:name":"Nkilongo",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

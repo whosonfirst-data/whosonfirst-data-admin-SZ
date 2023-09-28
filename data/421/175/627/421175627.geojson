@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068198,
-    "geom:area_square_m":757271422.291134,
+    "geom:area_square_m":757271422.291179,
     "geom:bbox":"31.6682207749,-26.2778962175,32.0325203754,-25.9356641516",
     "geom:latitude":-26.10211,
     "geom:longitude":31.824372,
@@ -121,12 +121,13 @@
         "hasc:id":"SZ.LU.MU",
         "qs_pg:id":383405
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459009073,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0e51cec3dac63199fd3ed8c6a72f6220",
+    "wof:geomhash":"4006ddde9ea162e4c049ddda1e8bfe99",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421175627,
-    "wof:lastmodified":1582347814,
+    "wof:lastmodified":1695886791,
     "wof:name":"Mhlume",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

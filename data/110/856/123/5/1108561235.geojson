@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019818,
-    "geom:area_square_m":219062680.087351,
+    "geom:area_square_m":219062726.211315,
     "geom:bbox":"31.284666,-26.767288,31.512025,-26.519896",
     "geom:latitude":-26.62675,
     "geom:longitude":31.400632,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.MA.NH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982910,
-    "wof:geomhash":"04c66417eb76571192e0ed160b1bfb32",
+    "wof:geomhash":"1ba445f1bc64ff51c4b17b3aeec33a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108561235,
-    "wof:lastmodified":1627522809,
+    "wof:lastmodified":1695886510,
     "wof:name":"Nhlambeni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

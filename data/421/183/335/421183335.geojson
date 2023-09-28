@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027399,
-    "geom:area_square_m":304931834.299578,
+    "geom:area_square_m":304931919.408698,
     "geom:bbox":"31.186742,-25.919865,31.46079,-25.727709",
     "geom:latitude":-25.836947,
     "geom:longitude":31.341729,
@@ -105,12 +105,13 @@
         "qs_pg:id":973275,
         "wd:id":"Q3798856"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459009366,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f31581c6b6e3fb240ef2d6f3901507ee",
+    "wof:geomhash":"98bc4ca88d3d874fdeb329b45bf82927",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":421183335,
-    "wof:lastmodified":1690868439,
+    "wof:lastmodified":1695886511,
     "wof:name":"Ntfonjeni",
     "wof:parent_id":85678211,
     "wof:placetype":"county",
