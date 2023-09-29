@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025203,
-    "geom:area_square_m":277955020.287542,
+    "geom:area_square_m":277955521.205338,
     "geom:bbox":"31.122618,-26.997321,31.375225,-26.799276",
     "geom:latitude":-26.884948,
     "geom:longitude":31.251104,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.NW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982930,
-    "wof:geomhash":"e69b19353eccedd4d94f56b7fbc6cd20",
+    "wof:geomhash":"5925b4e74f1750a306e02adb63881099",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108561255,
-    "wof:lastmodified":1627522810,
+    "wof:lastmodified":1695886511,
     "wof:name":"Nkwene",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

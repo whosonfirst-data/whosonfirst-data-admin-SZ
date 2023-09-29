@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.528706,
-    "geom:area_square_m":5848127971.452023,
+    "geom:area_square_m":5848126868.276775,
     "geom:bbox":"31.478642,-27.169072,32.134844,-25.935664",
     "geom:latitude":-26.548483,
     "geom:longitude":31.842533,
@@ -288,16 +288,18 @@
         "gn:id":935042,
         "gp:id":20069891,
         "hasc:id":"SZ.LU",
+        "iso:code":"SZ-LU",
         "iso:id":"SZ-LU",
         "qs_pg:id":202004,
         "wd:id":"Q856657",
         "wk:page":"Lubombo Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8a05e8ea99e86b7974dee6ab96a77d35",
+    "wof:geomhash":"c16c7e85f32fdf597d0ef0931ed376cb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -314,7 +316,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1690868434,
+    "wof:lastmodified":1695884899,
     "wof:name":"Lubombo",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

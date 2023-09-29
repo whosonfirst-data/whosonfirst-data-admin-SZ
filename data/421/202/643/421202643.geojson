@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049613,
-    "geom:area_square_m":546487183.824203,
+    "geom:area_square_m":546487225.450879,
     "geom:bbox":"31.688212,-27.169072,31.994445,-26.906867",
     "geom:latitude":-27.024626,
     "geom:longitude":31.867487,
@@ -102,12 +102,13 @@
         "qs_pg:id":225209,
         "wd:id":"Q3798826"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459010125,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2bd37d6ffd40f487a6b3bf731fb9a5e4",
+    "wof:geomhash":"c2c837d08ad03aa4cb1e1bedacf35c6a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":421202643,
-    "wof:lastmodified":1690868437,
+    "wof:lastmodified":1695886791,
     "wof:name":"Lubuli",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

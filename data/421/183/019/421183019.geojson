@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047684,
-    "geom:area_square_m":526834030.382973,
+    "geom:area_square_m":526833816.083127,
     "geom:bbox":"31.478642,-26.780736,31.849965,-26.547025",
     "geom:latitude":-26.683012,
     "geom:longitude":31.658319,
@@ -112,12 +112,13 @@
         "qs_pg:id":959170,
         "wd:id":"Q637090"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459009355,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae234284657f4e7162e06ebd18a63ecc",
+    "wof:geomhash":"11e8a1aec4126e2fd75bd8fcd879f6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":421183019,
-    "wof:lastmodified":1690868439,
+    "wof:lastmodified":1695886791,
     "wof:name":"Siphofaneni",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

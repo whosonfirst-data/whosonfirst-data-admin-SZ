@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015071,
-    "geom:area_square_m":167036067.050815,
+    "geom:area_square_m":167035839.696864,
     "geom:bbox":"31.161119,-26.422519,31.287448,-26.215746",
     "geom:latitude":-26.32027,
     "geom:longitude":31.2235,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.HH.HH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982934,
-    "wof:geomhash":"a481c0b776a1e094c70f7505b08a8d9d",
+    "wof:geomhash":"f48b0860a575f7a43e2e73b3dd7a9f27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108561263,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Hhukwini",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

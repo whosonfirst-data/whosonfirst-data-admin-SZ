@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004043,
-    "geom:area_square_m":44741453.869141,
+    "geom:area_square_m":44741453.869137,
     "geom:bbox":"31.334952062,-26.5490452758,31.4532463773,-26.4693563218",
     "geom:latitude":-26.4995,
     "geom:longitude":31.385558,
@@ -104,12 +104,13 @@
         "hasc:id":"SZ.MA.MZ",
         "qs_pg:id":383404
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459009073,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"633f9474509e6f4f0936ed14add727a6",
+    "wof:geomhash":"6c9ed014de35535b054c7a926fe1bd91",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":421175625,
-    "wof:lastmodified":1582347814,
+    "wof:lastmodified":1695886791,
     "wof:name":"Manzini",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

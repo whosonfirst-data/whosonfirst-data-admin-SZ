@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010858,
-    "geom:area_square_m":120239071.246472,
+    "geom:area_square_m":120239071.246478,
     "geom:bbox":"31.112436,-26.480578,31.258327,-26.368814",
     "geom:latitude":-26.422422,
     "geom:longitude":31.185058,
@@ -363,6 +363,7 @@
         "qs_pg:id":127930,
         "wd:id":"Q101418"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421199783
     ],
@@ -371,7 +372,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"403a3e8cc501a9c6848c592f0dd50c28",
+    "wof:geomhash":"6649a6dc44c4568ddd8bfe7bcdd2cedf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -381,7 +382,7 @@
         }
     ],
     "wof:id":421178537,
-    "wof:lastmodified":1690868440,
+    "wof:lastmodified":1695886792,
     "wof:name":"Lobamba",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

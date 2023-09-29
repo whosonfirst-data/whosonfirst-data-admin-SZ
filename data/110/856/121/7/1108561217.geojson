@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010844,
-    "geom:area_square_m":119932509.900741,
+    "geom:area_square_m":119932804.918154,
     "geom:bbox":"30.983472,-26.625965,31.162066,-26.500085",
     "geom:latitude":-26.56778,
     "geom:longitude":31.071296,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.MA.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982894,
-    "wof:geomhash":"b65578246a4424cddb3984cfae2705e8",
+    "wof:geomhash":"c5e3d9cd2cc373de33b77cad8180f759",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108561217,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Lamgabhi",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016071,
-    "geom:area_square_m":178002163.329812,
+    "geom:area_square_m":178001795.560202,
     "geom:bbox":"31.248676,-26.501388,31.379885,-26.289293",
     "geom:latitude":-26.398408,
     "geom:longitude":31.314285,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.MA.LZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982891,
-    "wof:geomhash":"48155468c79d4e71e50ac83d2fa7bcc0",
+    "wof:geomhash":"caa086b13e3c59537eb01bc2bbe900c9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108561213,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886508,
     "wof:name":"Ludzeludze",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

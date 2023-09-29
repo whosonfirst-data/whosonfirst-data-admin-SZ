@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044188,
-    "geom:area_square_m":488401473.741121,
+    "geom:area_square_m":488400041.506431,
     "geom:bbox":"31.948074,-26.840385,32.134844,-26.463693",
     "geom:latitude":-26.637016,
     "geom:longitude":32.066892,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.LU.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982922,
-    "wof:geomhash":"d23a95a6113a7f6883d77da02002d23f",
+    "wof:geomhash":"53f84aab0c95402cc1ec6207571172b1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108561247,
-    "wof:lastmodified":1627522810,
+    "wof:lastmodified":1695886511,
     "wof:name":"Tikhuba",
     "wof:parent_id":85678215,
     "wof:placetype":"county",

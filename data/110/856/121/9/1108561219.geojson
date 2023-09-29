@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021177,
-    "geom:area_square_m":234564598.017448,
+    "geom:area_square_m":234564680.974559,
     "geom:bbox":"31.338267,-26.485157,31.524617,-26.284878",
     "geom:latitude":-26.389957,
     "geom:longitude":31.421101,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.MA.EK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982897,
-    "wof:geomhash":"67f21dd5017fc182e16560185ef35dcf",
+    "wof:geomhash":"e7b74d27066d5f96d91cbeffbd17b595",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108561219,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Kukhanyeni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

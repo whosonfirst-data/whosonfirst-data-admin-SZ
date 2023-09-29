@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019746,
-    "geom:area_square_m":217179702.357811,
+    "geom:area_square_m":217179433.364896,
     "geom:bbox":"31.235986,-27.278633,31.405901,-27.093069",
     "geom:latitude":-27.188977,
     "geom:longitude":31.331431,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.ZO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982888,
-    "wof:geomhash":"e96b307b51e5c54682ff6d94147d37b4",
+    "wof:geomhash":"37e06329871e2e82ae956100dcefb4bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108561211,
-    "wof:lastmodified":1627522810,
+    "wof:lastmodified":1695886511,
     "wof:name":"Zombodze",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

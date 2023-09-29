@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050391,
-    "geom:area_square_m":559086207.062697,
+    "geom:area_square_m":559086625.249236,
     "geom:bbox":"31.192885,-26.324309,31.545405,-26.076301",
     "geom:latitude":-26.198956,
     "geom:longitude":31.361564,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.HH.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982898,
-    "wof:geomhash":"1b567ff0a44e0f7ceaaa958ae4d03945",
+    "wof:geomhash":"fd056cd1b47a905353bab6a31d09499b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108561223,
-    "wof:lastmodified":1627522809,
+    "wof:lastmodified":1695886510,
     "wof:name":"Maphalaleni",
     "wof:parent_id":85678211,
     "wof:placetype":"county",

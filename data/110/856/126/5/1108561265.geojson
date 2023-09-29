@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021838,
-    "geom:area_square_m":241771298.65381,
+    "geom:area_square_m":241771023.819618,
     "geom:bbox":"31.449049,-26.537869,31.666588,-26.334628",
     "geom:latitude":-26.4467,
     "geom:longitude":31.55131,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.MA.MF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982936,
-    "wof:geomhash":"4743d656a7c7608bd635fa7bb15d7f88",
+    "wof:geomhash":"a9fd9a5963d50f37647529e74a5302a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108561265,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Mafutseni",
     "wof:parent_id":85678219,
     "wof:placetype":"county",

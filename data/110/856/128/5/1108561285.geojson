@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024576,
-    "geom:area_square_m":270629864.136966,
+    "geom:area_square_m":270629649.023972,
     "geom:bbox":"31.142492,-27.143191,31.36935,-26.956785",
     "geom:latitude":-27.054417,
     "geom:longitude":31.245841,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"SZ.SH.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1473982950,
-    "wof:geomhash":"f1ee2564699c1eec12a373a481dc48e6",
+    "wof:geomhash":"8be1f6304e1f2be420d9a136cd1f63a0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108561285,
-    "wof:lastmodified":1627522809,
+    "wof:lastmodified":1695886510,
     "wof:name":"Mbangweni",
     "wof:parent_id":85678223,
     "wof:placetype":"county",

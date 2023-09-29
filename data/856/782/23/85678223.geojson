@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.342346,
-    "geom:area_square_m":3769472445.861771,
+    "geom:area_square_m":3769471254.607632,
     "geom:bbox":"30.894558,-27.317396,31.977473,-26.755226",
     "geom:latitude":-27.068342,
     "geom:longitude":31.422116,
@@ -288,16 +288,18 @@
         "gn:id":934867,
         "gp:id":20069890,
         "hasc:id":"SZ.SH",
+        "iso:code":"SZ-SH",
         "iso:id":"SZ-SH",
         "qs_pg:id":43446,
         "wd:id":"Q845934",
         "wk:page":"Shiselweni Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f0d792496761ef76ddd5964a860e960d",
+    "wof:geomhash":"413480d69fd8c714e0aaf0ab3240a65b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -314,7 +316,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1690868433,
+    "wof:lastmodified":1695884899,
     "wof:name":"Shiselweni",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

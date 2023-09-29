@@ -1463,6 +1463,7 @@
         "gp:id":23424993,
         "hasc:id":"SZ",
         "ioc:id":"SWZ",
+        "iso:code":"SZ",
         "itu:id":"SWZ",
         "loc:id":"n81087157",
         "m49:code":"748",
@@ -1477,6 +1478,7 @@
         "wk:page":"Swaziland",
         "wmo:id":"SV"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SZ",
     "wof:country_alpha3":"SWZ",
     "wof:geom_alt":[
@@ -1500,7 +1502,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1694639538,
+    "wof:lastmodified":1695881196,
     "wof:name":"eSwatini",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

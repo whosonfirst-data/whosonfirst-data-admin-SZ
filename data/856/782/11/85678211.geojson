@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329765,
-    "geom:area_square_m":3662163620.518166,
+    "geom:area_square_m":3662164178.993423,
     "geom:bbox":"30.893196,-26.480578,31.76541,-25.71792",
     "geom:latitude":-26.088061,
     "geom:longitude":31.325576,
@@ -309,16 +309,18 @@
         "gn:id":935085,
         "gp:id":20069889,
         "hasc:id":"SZ.HH",
+        "iso:code":"SZ-HH",
         "iso:id":"SZ-HH",
         "qs_pg:id":429067,
         "wd:id":"Q735570",
         "wk:page":"Hhohho Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e5a41c9cc91aa44d31764a070bf8120",
+    "wof:geomhash":"af447b1eaee7ec6f9716208a891de934",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -335,7 +337,7 @@
         "eng",
         "ssw"
     ],
-    "wof:lastmodified":1690868433,
+    "wof:lastmodified":1695884899,
     "wof:name":"Hhohho",
     "wof:parent_id":85632635,
     "wof:placetype":"region",

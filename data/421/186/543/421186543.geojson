@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042202,
-    "geom:area_square_m":467882259.630172,
+    "geom:area_square_m":467883020.666485,
     "geom:bbox":"31.615382,-26.418522,31.945605,-26.141623",
     "geom:latitude":-26.283656,
     "geom:longitude":31.784334,
@@ -117,12 +117,13 @@
         "qs_pg:id":1073358,
         "wd:id":"Q3798820"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SZ",
     "wof:created":1459009484,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ce5e2713e9238b5363e93930f6ffac19",
+    "wof:geomhash":"c180b8362ce1b4137390af78432e9592",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421186543,
-    "wof:lastmodified":1690868438,
+    "wof:lastmodified":1695886508,
     "wof:name":"Hlane",
     "wof:parent_id":85678215,
     "wof:placetype":"county",
